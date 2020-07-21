@@ -9,21 +9,74 @@
 /* Begin PBXBuildFile section */
 		74165E0D24C31F7000493C45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74165E0C24C31F7000493C45 /* AppDelegate.swift */; };
 		74165E0F24C31F7000493C45 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74165E0E24C31F7000493C45 /* SceneDelegate.swift */; };
-		74165E1124C31F7000493C45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74165E1024C31F7000493C45 /* ContentView.swift */; };
-		74165E1324C31F7200493C45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74165E1224C31F7200493C45 /* Assets.xcassets */; };
 		74165E1624C31F7200493C45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74165E1524C31F7200493C45 /* Preview Assets.xcassets */; };
 		74165E1924C31F7200493C45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74165E1724C31F7200493C45 /* LaunchScreen.storyboard */; };
+		74165E2424C31FD700493C45 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74165E2024C31FD600493C45 /* MapView.swift */; };
+		74165E2624C31FD700493C45 /* AirportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74165E2224C31FD600493C45 /* AirportView.swift */; };
+		74165E2724C31FD700493C45 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74165E2324C31FD700493C45 /* MapViewController.swift */; };
+		74165E2A24C3201100493C45 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74165E2824C3201000493C45 /* Images.xcassets */; };
+		74165E2B24C3201100493C45 /* Application.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74165E2924C3201100493C45 /* Application.xcassets */; };
+		74165E3224C3260F00493C45 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74165E3124C3260F00493C45 /* MapKit.framework */; };
+		74165E3424C3278700493C45 /* PC_IndoorMapOverlayLib in Resources */ = {isa = PBXBuildFile; fileRef = 74165E3324C3278700493C45 /* PC_IndoorMapOverlayLib */; };
+		74165E3724C3287700493C45 /* libPC_IndoorMapOverlayBitCode.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 74165E3524C3281C00493C45 /* libPC_IndoorMapOverlayBitCode.a */; };
+		7462353924C36EBA0072DF15 /* RowWithAirportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7462353724C36EBA0072DF15 /* RowWithAirportView.swift */; };
+		7462353A24C36EBA0072DF15 /* ListOfAirportsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7462353824C36EBA0072DF15 /* ListOfAirportsView.swift */; };
+		7462AA5324C3736000500CDA /* Airports.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7462AA5124C3735F00500CDA /* Airports.swift */; };
+		7462AA5424C3736000500CDA /* Airport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7462AA5224C3736000500CDA /* Airport.swift */; };
+		7462AA5624C373EF00500CDA /* InformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7462AA5524C373EF00500CDA /* InformationView.swift */; };
+		74712FF824C70DE30041987E /* Maps in Resources */ = {isa = PBXBuildFile; fileRef = 74712FF724C70DE20041987E /* Maps */; };
+		74F1C36224C3848F008001A0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 74F1C36424C3848F008001A0 /* Localizable.strings */; };
+		74F1C37C24C38BD4008001A0 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F1C37B24C38BD4008001A0 /* Settings.swift */; };
+		74F1C38224C479C2008001A0 /* SelectFloorForAirportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F1C38124C479C2008001A0 /* SelectFloorForAirportView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		74165E0924C31F7000493C45 /* Airport Maps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Airport Maps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74165E0C24C31F7000493C45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74165E0E24C31F7000493C45 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		74165E1024C31F7000493C45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		74165E1224C31F7200493C45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74165E1524C31F7200493C45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		74165E1824C31F7200493C45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74165E1A24C31F7200493C45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74165E2024C31FD600493C45 /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		74165E2224C31FD600493C45 /* AirportView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirportView.swift; sourceTree = "<group>"; };
+		74165E2324C31FD700493C45 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		74165E2824C3201000493C45 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		74165E2924C3201100493C45 /* Application.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Application.xcassets; sourceTree = "<group>"; };
+		74165E2F24C325F500493C45 /* Airport Maps.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Airport Maps.entitlements"; sourceTree = "<group>"; };
+		74165E3124C3260F00493C45 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		74165E3324C3278700493C45 /* PC_IndoorMapOverlayLib */ = {isa = PBXFileReference; lastKnownFileType = folder; path = PC_IndoorMapOverlayLib; sourceTree = "<group>"; };
+		74165E3524C3281C00493C45 /* libPC_IndoorMapOverlayBitCode.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPC_IndoorMapOverlayBitCode.a; path = "Airport Maps/PC_IndoorMapOverlayLib/libPC_IndoorMapOverlayBitCode.a"; sourceTree = "<group>"; };
+		7451D96224C32DB500F4964A /* Xcode 12.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; name = "Xcode 12.app"; path = "../../../../../../../Applications/Xcode 12.app"; sourceTree = "<group>"; };
+		7462353724C36EBA0072DF15 /* RowWithAirportView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RowWithAirportView.swift; sourceTree = "<group>"; };
+		7462353824C36EBA0072DF15 /* ListOfAirportsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListOfAirportsView.swift; sourceTree = "<group>"; };
+		7462AA5124C3735F00500CDA /* Airports.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Airports.swift; sourceTree = "<group>"; };
+		7462AA5224C3736000500CDA /* Airport.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Airport.swift; sourceTree = "<group>"; };
+		7462AA5524C373EF00500CDA /* InformationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InformationView.swift; sourceTree = "<group>"; };
+		74712FF724C70DE20041987E /* Maps */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Maps; sourceTree = "<group>"; };
+		74C01F5824C5EC7B00BB42D3 /* Airport_Maps-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Airport_Maps-Bridging-Header.h"; sourceTree = "<group>"; };
+		74F1C36324C3848F008001A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C36524C384B3008001A0 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		74F1C36624C384B3008001A0 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C36724C384E0008001A0 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		74F1C36824C384E1008001A0 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C36924C384F6008001A0 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		74F1C36A24C384F7008001A0 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C36B24C38522008001A0 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		74F1C36C24C38522008001A0 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C36D24C38534008001A0 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		74F1C36E24C38535008001A0 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C36F24C38559008001A0 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		74F1C37024C3855A008001A0 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C37324C38596008001A0 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		74F1C37424C38597008001A0 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C37524C385AA008001A0 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		74F1C37624C385AA008001A0 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		74F1C37724C38627008001A0 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		74F1C37824C38628008001A0 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		74F1C37924C3863C008001A0 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		74F1C37A24C3863C008001A0 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		74F1C37B24C38BD4008001A0 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		74F1C38124C479C2008001A0 /* SelectFloorForAirportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectFloorForAirportView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +84,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74165E3724C3287700493C45 /* libPC_IndoorMapOverlayBitCode.a in Frameworks */,
+				74165E3224C3260F00493C45 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +97,7 @@
 			children = (
 				74165E0B24C31F7000493C45 /* Airport Maps */,
 				74165E0A24C31F7000493C45 /* Products */,
+				74165E3024C3260F00493C45 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,12 +112,19 @@
 		74165E0B24C31F7000493C45 /* Airport Maps */ = {
 			isa = PBXGroup;
 			children = (
+				74712FF724C70DE20041987E /* Maps */,
+				74F1C36424C3848F008001A0 /* Localizable.strings */,
+				74165E2F24C325F500493C45 /* Airport Maps.entitlements */,
 				74165E0C24C31F7000493C45 /* AppDelegate.swift */,
 				74165E0E24C31F7000493C45 /* SceneDelegate.swift */,
-				74165E1024C31F7000493C45 /* ContentView.swift */,
-				74165E1224C31F7200493C45 /* Assets.xcassets */,
+				7462354124C36F480072DF15 /* Models */,
+				74165E2D24C320A800493C45 /* Views */,
+				74165E2E24C320B000493C45 /* ViewControllers */,
+				74165E2C24C3201600493C45 /* Resources */,
 				74165E1724C31F7200493C45 /* LaunchScreen.storyboard */,
 				74165E1A24C31F7200493C45 /* Info.plist */,
+				74C01F5824C5EC7B00BB42D3 /* Airport_Maps-Bridging-Header.h */,
+				74165E3324C3278700493C45 /* PC_IndoorMapOverlayLib */,
 				74165E1424C31F7200493C45 /* Preview Content */,
 			);
 			path = "Airport Maps";
@@ -73,6 +136,56 @@
 				74165E1524C31F7200493C45 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		74165E2C24C3201600493C45 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				74165E2924C3201100493C45 /* Application.xcassets */,
+				74165E2824C3201000493C45 /* Images.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		74165E2D24C320A800493C45 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				7462353824C36EBA0072DF15 /* ListOfAirportsView.swift */,
+				7462353724C36EBA0072DF15 /* RowWithAirportView.swift */,
+				7462AA5524C373EF00500CDA /* InformationView.swift */,
+				74165E2024C31FD600493C45 /* MapView.swift */,
+				74165E2224C31FD600493C45 /* AirportView.swift */,
+				74F1C38124C479C2008001A0 /* SelectFloorForAirportView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		74165E2E24C320B000493C45 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				74165E2324C31FD700493C45 /* MapViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		74165E3024C3260F00493C45 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7451D96224C32DB500F4964A /* Xcode 12.app */,
+				74165E3524C3281C00493C45 /* libPC_IndoorMapOverlayBitCode.a */,
+				74165E3124C3260F00493C45 /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7462354124C36F480072DF15 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7462AA5224C3736000500CDA /* Airport.swift */,
+				7462AA5124C3735F00500CDA /* Airports.swift */,
+				74F1C37B24C38BD4008001A0 /* Settings.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -116,6 +229,16 @@
 			knownRegions = (
 				en,
 				Base,
+				ja,
+				es,
+				fr,
+				de,
+				it,
+				nl,
+				ar,
+				"zh-Hans",
+				ru,
+				"pt-BR",
 			);
 			mainGroup = 74165E0024C31F7000493C45;
 			productRefGroup = 74165E0A24C31F7000493C45 /* Products */;
@@ -132,9 +255,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74165E2B24C3201100493C45 /* Application.xcassets in Resources */,
+				74712FF824C70DE30041987E /* Maps in Resources */,
+				74F1C36224C3848F008001A0 /* Localizable.strings in Resources */,
+				74165E2A24C3201100493C45 /* Images.xcassets in Resources */,
 				74165E1924C31F7200493C45 /* LaunchScreen.storyboard in Resources */,
 				74165E1624C31F7200493C45 /* Preview Assets.xcassets in Resources */,
-				74165E1324C31F7200493C45 /* Assets.xcassets in Resources */,
+				74165E3424C3278700493C45 /* PC_IndoorMapOverlayLib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,9 +272,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7462AA5424C3736000500CDA /* Airport.swift in Sources */,
+				74165E2624C31FD700493C45 /* AirportView.swift in Sources */,
 				74165E0D24C31F7000493C45 /* AppDelegate.swift in Sources */,
 				74165E0F24C31F7000493C45 /* SceneDelegate.swift in Sources */,
-				74165E1124C31F7000493C45 /* ContentView.swift in Sources */,
+				7462353A24C36EBA0072DF15 /* ListOfAirportsView.swift in Sources */,
+				7462AA5624C373EF00500CDA /* InformationView.swift in Sources */,
+				7462353924C36EBA0072DF15 /* RowWithAirportView.swift in Sources */,
+				74F1C38224C479C2008001A0 /* SelectFloorForAirportView.swift in Sources */,
+				7462AA5324C3736000500CDA /* Airports.swift in Sources */,
+				74165E2424C31FD700493C45 /* MapView.swift in Sources */,
+				74F1C37C24C38BD4008001A0 /* Settings.swift in Sources */,
+				74165E2724C31FD700493C45 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -158,8 +294,36 @@
 			isa = PBXVariantGroup;
 			children = (
 				74165E1824C31F7200493C45 /* Base */,
+				74F1C36524C384B3008001A0 /* ja */,
+				74F1C36724C384E0008001A0 /* es */,
+				74F1C36924C384F6008001A0 /* fr */,
+				74F1C36B24C38522008001A0 /* de */,
+				74F1C36D24C38534008001A0 /* it */,
+				74F1C36F24C38559008001A0 /* nl */,
+				74F1C37324C38596008001A0 /* ar */,
+				74F1C37524C385AA008001A0 /* zh-Hans */,
+				74F1C37724C38627008001A0 /* ru */,
+				74F1C37924C3863C008001A0 /* pt-BR */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		74F1C36424C3848F008001A0 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				74F1C36324C3848F008001A0 /* en */,
+				74F1C36624C384B3008001A0 /* ja */,
+				74F1C36824C384E1008001A0 /* es */,
+				74F1C36A24C384F7008001A0 /* fr */,
+				74F1C36C24C38522008001A0 /* de */,
+				74F1C36E24C38535008001A0 /* it */,
+				74F1C37024C3855A008001A0 /* nl */,
+				74F1C37424C38597008001A0 /* ar */,
+				74F1C37624C385AA008001A0 /* zh-Hans */,
+				74F1C37824C38628008001A0 /* ru */,
+				74F1C37A24C3863C008001A0 /* pt-BR */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -169,6 +333,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -230,6 +395,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -286,17 +452,29 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Airport Maps/Airport Maps.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Airport Maps/Preview Content\"";
 				DEVELOPMENT_TEAM = 9X3HHK8VXA;
 				ENABLE_PREVIEWS = YES;
+				HEADER_SEARCH_PATHS = "$(SOURCE_ROOt`)/PC_IndoorMapOverlayLib/include/**";
 				INFOPLIST_FILE = "Airport Maps/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Airport\\ Maps/PC_IndoorMapOverlayLib",
+					"$(PROJECT_DIR)/Airport\\ Maps/PC_IndoorMapOverlayLib",
+				);
+				MARKETING_VERSION = 3.0;
+				OTHER_LDFLAGS = "-lc++";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.piecesofmymind.iphone.Airport-Maps";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Airport Maps/Airport_Maps-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -307,17 +485,29 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Airport Maps/Airport Maps.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Airport Maps/Preview Content\"";
 				DEVELOPMENT_TEAM = 9X3HHK8VXA;
 				ENABLE_PREVIEWS = YES;
+				HEADER_SEARCH_PATHS = "$(SOURCE_ROOt`)/PC_IndoorMapOverlayLib/include/**";
 				INFOPLIST_FILE = "Airport Maps/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Airport\\ Maps/PC_IndoorMapOverlayLib",
+					"$(PROJECT_DIR)/Airport\\ Maps/PC_IndoorMapOverlayLib",
+				);
+				MARKETING_VERSION = 3.0;
+				OTHER_LDFLAGS = "-lc++";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.piecesofmymind.iphone.Airport-Maps";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Airport Maps/Airport_Maps-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

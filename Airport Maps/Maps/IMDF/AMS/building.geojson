@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "084a87fa-2ace-61db-84f1-e00547ca3781",
+      "type": "Feature",
+      "feature_type": "building",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Terminal A"
+        },
+        "alt_name": {
+          "en": ""
+        },
+        "category": "unspecified",
+        "restriction": null,
+        "display_point": null,
+        "address_id": "46245861-9d0a-4ec5-b8e2-bd57096710d3"
+      }
+    },
+    {
+      "id": "f959069f-9be0-4ad4-a781-c6685cf75357",
+      "type": "Feature",
+      "feature_type": "building",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Terminal AB Garage"
+        },
+        "alt_name": {
+          "en": ""
+        },
+        "category": "unspecified",
+        "restriction": null,
+        "display_point": null,
+        "address_id": "46245861-9d0a-4ec5-b8e2-bd57096710d3"
+      }
+    },
+    {
+      "id": "9f5e55af-2c97-4765-a8b2-35d4b331f42f",
+      "type": "Feature",
+      "feature_type": "building",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Terminal B"
+        },
+        "alt_name": {
+          "en": ""
+        },
+        "category": "unspecified",
+        "restriction": null,
+        "display_point": null,
+        "address_id": "46245861-9d0a-4ec5-b8e2-bd57096710d3"
+      }
+    },
+    {
+      "id": "5caa610e-bd92-4ab2-b831-62476edf1192",
+      "type": "Feature",
+      "feature_type": "building",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Terminal C"
+        },
+        "alt_name": {
+          "en": ""
+        },
+        "category": "unspecified",
+        "restriction": null,
+        "display_point": null,
+        "address_id": "46245861-9d0a-4ec5-b8e2-bd57096710d3"
+      }
+    },
+    {
+      "id": "81c310d5-17e4-4611-8d4e-debd48ebb0d4",
+      "type": "Feature",
+      "feature_type": "building",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Terminal E"
+        },
+        "alt_name": {
+          "en": ""
+        },
+        "category": "unspecified",
+        "restriction": null,
+        "display_point": null,
+        "address_id": "46245861-9d0a-4ec5-b8e2-bd57096710d3"
+      }
+    },
+    {
+      "id": "09217893-a37c-4214-88f9-ff52e5144147",
+      "type": "Feature",
+      "feature_type": "building",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Terminal C and E"
+        },
+        "alt_name": {
+          "en": ""
+        },
+        "category": "unspecified",
+        "restriction": null,
+        "display_point": null,
+        "address_id": "46245861-9d0a-4ec5-b8e2-bd57096710d3"
+      }
+    },
+    {
+      "id": "428d03fa-5890-4cb2-9279-69bcf4366c97",
+      "type": "Feature",
+      "feature_type": "building",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Terminal D"
+        },
+        "alt_name": {
+          "en": ""
+        },
+        "category": "unspecified",
+        "restriction": null,
+        "display_point": null,
+        "address_id": "46245861-9d0a-4ec5-b8e2-bd57096710d3"
+      }
+    }
+  ]
+}

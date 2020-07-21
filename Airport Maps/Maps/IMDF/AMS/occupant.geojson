@@ -1,0 +1,3444 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "74bdb414-0f4e-4484-8e9a-208260811192",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Starbucks"
+        },
+        "category": "cafe",
+        "anchor_id": "572ea16a-d388-4ab8-b4bb-a09e711efc6f",
+        "hours": "Mo-Fr 06:30-21:30; Sa-Su 07:00-21:30",
+        "phone": "+12812333760",
+        "website": "http://www.starbucks.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2fae1573-7266-4a68-a53c-d7e4e0ef5cae",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Wall Street Journal"
+        },
+        "category": "shopping",
+        "anchor_id": "906fffcd-ac5b-4a00-93fb-b1d393c594d8",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "7efedd14-2b5c-4ba7-beef-5454ea7df2b4",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Texas Monthly News"
+        },
+        "category": "shopping",
+        "anchor_id": "a0214623-fd30-46c2-8692-9fd35f12171b",
+        "hours": null,
+        "phone": "+12812337673",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "3b1d030c-d54a-4603-9543-8a67b116fdfc",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Liq Innovations Bar"
+        },
+        "category": "beerwinespirits",
+        "anchor_id": "31c0e105-57ba-44d8-b59b-085553034a55",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f38c820a-3ab3-46ab-8cde-0d573c6b4e80",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Wendy's"
+        },
+        "category": "restaurant",
+        "anchor_id": "687c2c23-d90a-42c5-9015-bcaa8a279188",
+        "hours": "Mo-Su 04:00-22:00",
+        "phone": null,
+        "website": "http://www.wendys.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "19a84a71-2797-48ea-85b7-8155812ea233",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Panda Express"
+        },
+        "category": "restaurant",
+        "anchor_id": "0263b12f-37f4-4c38-965f-de72be309a0d",
+        "hours": "Mo-Su 04:00-22:00",
+        "phone": null,
+        "website": "http://www.pandaexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "89f7899b-4d2b-490b-b242-f619cc9ec781",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Chik-fil-A"
+        },
+        "category": "restaurant",
+        "anchor_id": "3caee368-9cd8-4f61-b9fa-7820bb7c60db",
+        "hours": "Mo-Sa 04:00-22:00",
+        "phone": null,
+        "website": "http://www.chick-fil-a.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "ec0ad622-aa67-4038-903c-7c3176149e12",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Breakfast Club Express"
+        },
+        "category": "restaurant",
+        "anchor_id": "393a1906-4445-4deb-8c70-44b3b7283624",
+        "hours": null,
+        "phone": null,
+        "website": "http://thebreakfastklub.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "81a5fe7a-4df6-41db-ad64-ba20e9bcaf24",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Subway"
+        },
+        "category": "restaurant",
+        "anchor_id": "a9b7ab33-0b99-444e-8947-f578b9038f07",
+        "hours": "Mo-Su 05:00-22:00",
+        "phone": null,
+        "website": "http://www.subway.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "57343b4d-35ab-4b07-ba94-7542e59c2985",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Culturemap"
+        },
+        "category": "shopping",
+        "anchor_id": "0ca943c0-5a6e-457e-8746-885a3b44d908",
+        "hours": "Mo-Su 04:30-20:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d5985a25-93ac-4db2-af01-54a081fce501",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Jack in the Box"
+        },
+        "category": "restaurant",
+        "anchor_id": "03747fb3-d33f-4b84-a6d1-50b73e46b70a",
+        "hours": "Mo-Su 05:00-20:00",
+        "phone": null,
+        "website": "http://www.jackinthebox.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2ac2a7ee-2aa0-4e96-ae52-032b28ff2151",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "KPRC 2 Travel Store"
+        },
+        "category": "travelservices",
+        "anchor_id": "c0a73008-df97-467e-9c8d-7aa6f47efd69",
+        "hours": "Mo-Su 05:30-21:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "20a20f7d-53a0-4a00-bc16-a663b1079b75",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Cadilac Bar & Grill"
+        },
+        "category": "restaurant",
+        "anchor_id": "4891c58d-c08a-4018-82f3-59e50376f583",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "df5b244a-ac73-4a51-99e2-0abd2770de1b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Houston"
+        },
+        "category": "shopping",
+        "anchor_id": "ee0d98b4-7f3f-48ef-a853-a93855476327",
+        "hours": "Mo-Su 05:30-21:00",
+        "phone": "+12812337673",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8fb13d8a-9e10-4351-ac81-7c8c7c125c74",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Breakfast Club"
+        },
+        "category": "restaurant",
+        "anchor_id": "1aff1950-939b-4bce-8f56-1657828382b9",
+        "hours": "Mo-Su 04:30-21:00",
+        "phone": "+12812337652",
+        "website": "http://thebreakfastklub.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "5a0bd4d4-74f5-49c9-bf2f-d0f76a997b96",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Starbucks"
+        },
+        "category": "cafe",
+        "anchor_id": "f746b9ab-ccda-4027-9752-089840137b4c",
+        "hours": "Mo-Su 04:30-22:00",
+        "phone": "+12812333377",
+        "website": "http://www.starbucks.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e304ab6f-f3d2-48c0-932c-d689e76e32aa",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Blaze Pizza"
+        },
+        "category": "restaurant",
+        "anchor_id": "20c14197-96ee-4d98-a000-f66407ca5973",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+12812303401",
+        "website": "http://www.blazepizza.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "6f8e0af5-5e54-4bab-a8ff-961819d7b159",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Hubcap Grill & Beer Yard"
+        },
+        "category": "restaurant",
+        "anchor_id": "323b9086-f529-4ed0-91ac-88e02406873a",
+        "hours": "Mo-Su 04:00-22:00",
+        "phone": "+12812303449",
+        "website": "http://hubcapgrill.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "0ac27f23-0bb9-45dc-a4f1-58868a1855d1",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Mockingbird Distillery & Smokehouse"
+        },
+        "category": "beerwinespirits",
+        "anchor_id": "4aba6c17-5f59-4867-a477-0402b747bc80",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2d9ea457-015d-41b9-b3ac-223fc2d68192",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Starbucks"
+        },
+        "category": "cafe",
+        "anchor_id": "ddd3179e-675d-4ed3-9251-856e5b0848f3",
+        "hours": "Mo-Su 5:00-21:00z",
+        "phone": "+12812333853",
+        "website": "http://www.starbucks.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f4734c5d-9fc4-47aa-a1eb-673e5fedde78",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "ATU Duty Free"
+        },
+        "category": "shopping",
+        "anchor_id": "1372c0df-7c8c-44fe-a2d8-f1668035eeae",
+        "hours": "Mo-Su 07:30-21:00",
+        "phone": "+13463008466",
+        "website": "https://www.atu.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8170b667-44eb-4b58-ab97-e36867034eec",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "ATU Duty Free"
+        },
+        "category": "shopping",
+        "anchor_id": "351da1d0-3157-4457-b887-2565428b7a0b",
+        "hours": "Mo-Su 07:30-21:00",
+        "phone": "+13463008466",
+        "website": "https://www.atu.com.tr",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "31d5ef59-9080-4cdd-a623-1e11eb07fb3f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Houston Chronicle"
+        },
+        "category": "shopping",
+        "anchor_id": "a472277c-711f-4c16-9920-d157ba2e87db",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.fuel-rod.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "5532a5c8-bc02-4dac-94ba-a9779a951646",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "FuelRod SwapBox Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "7893180e-0257-4b19-a472-1abd1e7aa5e4",
+        "hours": "Mo-Su 04:00-22:00",
+        "phone": "+12812303449",
+        "website": "http://www.fuel-rod.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "7357b4b3-d41e-4763-b9d6-7922800ca5f5",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Benefit Cosmetics Automated Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "5e4757db-1466-4484-b0c6-e8160034fc3f",
+        "hours": null,
+        "phone": null,
+        "website": "https://www.benefitcosmetics.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "ed0bf87b-a67d-4386-b478-321071b1a2ed",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "FuelRod Swapbox Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "c7000e89-e84c-4da0-b206-340fb978382c",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.bestbuy.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "28105f72-4415-4687-bab1-3603d6320fba",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "American Craft Tavern"
+        },
+        "category": "restaurant",
+        "anchor_id": "8f44f6a4-08b6-4560-b412-aae3e0e5c007",
+        "hours": "Mo-Su 05:30-21:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f3f01e68-0b3c-485c-93eb-3d59e01d1460",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Spanx"
+        },
+        "category": "shopping",
+        "anchor_id": "4a31ad79-ac3f-4bfb-a4ae-1d3fa7adf71a",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": null,
+        "website": "http://www.spanx.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "9ca0bd97-c5ce-4e33-8b95-d057177fcedc",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "The Wall Street Journal"
+        },
+        "category": "shopping",
+        "anchor_id": "d7e3272c-dd13-457f-ad1b-60a19c5162de",
+        "hours": "Mo-Su 05:30-21:00",
+        "phone": "+12812337673",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "de4cc2e5-e39d-4766-b9e4-75192d26d3d1",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Spirit of the Red Horse"
+        },
+        "category": "shopping",
+        "anchor_id": "6410cd92-4f51-4210-a096-e30715f1c461",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "9477197b-907f-4546-bd76-091bd1bbc036",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Univision"
+        },
+        "category": "shopping",
+        "anchor_id": "9400cbc0-32fb-4e9c-9215-9ceec05158b2",
+        "hours": "Mo-Su 05:30-21:00",
+        "phone": "+12812144046",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "23736dc8-49e8-425e-bd54-bd6b95469df0",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "eSavvy"
+        },
+        "category": "shopping",
+        "anchor_id": "d6a2510f-f027-4776-8b56-3bbcb278d931",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": "+12812144029",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f083b974-fe95-4852-bc4f-3d95e94f8bff",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "ATU Duty Free"
+        },
+        "category": "shopping",
+        "anchor_id": "da65b5d1-d83f-4b53-921d-01cb199030e4",
+        "hours": "Mo-Su 05:30-21:00",
+        "phone": "+18329956917",
+        "website": "https://www.atu.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "60421ba5-8ca3-444e-851d-db39aeee02c6",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Peet's Coffee & Tea"
+        },
+        "category": "restaurant",
+        "anchor_id": "7c640d9d-8d08-44c7-ace2-cbf78eadf5b4",
+        "hours": "Mo-Su 05:30-22:00",
+        "phone": "+12812222030",
+        "website": "http://www.peets.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "0b2448fd-b254-4d1c-9a96-8f3878ae5015",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Freshii"
+        },
+        "category": "restaurant",
+        "anchor_id": "78880bce-bc58-456f-96c3-4ee68195b9f8",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": "+12812337652",
+        "website": "https://www.freshii.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e68779db-f69a-4987-9913-52461296161f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Nuance Duty Free"
+        },
+        "category": "shopping",
+        "anchor_id": "aaf675d2-5146-47cf-80aa-decd168be909",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "43be9b6c-19a4-47c6-bcc0-7001ec76f2ae",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "The Body Shop"
+        },
+        "category": "shopping",
+        "anchor_id": "f96ba9d3-bd7d-424e-a5ce-88c96d2971c8",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "http://www.thebodyshop-usa.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "4d6e8c6e-d9e3-429d-8a86-4c3035c553f2",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Brookstone"
+        },
+        "category": "shopping",
+        "anchor_id": "b7f0ab02-552d-4f31-97e8-56da79c77fde",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "http://www.brookstone.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e5f43295-ec28-4c94-9392-efb48715f5b0",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Natalie's Candy Jar"
+        },
+        "category": "shopping",
+        "anchor_id": "af55ea87-901b-4f22-be9e-c05458a6464d",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "http://www.nataliescandyjar.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "b512199f-98cb-4e9d-bb26-9a13112dd84f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Johnston & Murphy"
+        },
+        "category": "shopping",
+        "anchor_id": "efeaaa7e-b498-49a2-8c06-8979baf173b2",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "http://www.johnstonmurphy.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "70fd6bac-9d40-4d90-9000-741e33117a7f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "iStore Boutique"
+        },
+        "category": "shopping",
+        "anchor_id": "b33dd469-d145-4602-be09-bfb21ed3b8e9",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "https://istoreworld.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "b16246ad-d558-4c78-8975-443d920a9920",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "3rd Bar Eating House"
+        },
+        "category": "restaurant",
+        "anchor_id": "d868074a-11f4-47a7-8269-aa82a6a523be",
+        "hours": "Mo-Su 06:30-22:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "adc95fdd-00b7-4934-a291-db9420d6ab60",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Relay"
+        },
+        "category": "shopping",
+        "anchor_id": "2417ee85-0a1a-4b1e-99bc-fbeb6cab2bde",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "b1d3b7f6-f1f2-437c-a2c7-eaa79f61a1c9",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Allen's Landing"
+        },
+        "category": "shopping",
+        "anchor_id": "7d1b7122-6ec9-418d-87d5-f994662cc25d",
+        "hours": "Mo-Su 05:15-19:00",
+        "phone": "+12812319042",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "85f4a816-6270-4e40-ab06-abd6c69707d1",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Starbucks"
+        },
+        "category": "cafe",
+        "anchor_id": "82b31471-6e67-45ec-874b-caa0b0fffc01",
+        "hours": "Mo-Su 05:00-22:00",
+        "phone": null,
+        "website": "http://www.starbucks.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "ce954708-ed4d-450f-92fc-ddeaf55318d2",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Sunglass Icon"
+        },
+        "category": "shopping",
+        "anchor_id": "b8c112d1-c408-4213-a38c-4ec6f05c2714",
+        "hours": "Mo-Su 06:00-20:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "641bbe87-cbed-4c7f-b7fd-61831b2460ff",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Barcuterie"
+        },
+        "category": "beerwinespirits",
+        "anchor_id": "4c1a49ea-3202-49c6-8b91-4660824705b6",
+        "hours": "Mo-Su 07:00-21:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2010e99c-a1e5-4d35-9627-2aa2df7cf2ef",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Chick-fil-A"
+        },
+        "category": "restaurant",
+        "anchor_id": "799912dc-d635-4835-b9d2-c464c151bd58",
+        "hours": "Mo-Su 05:30-22:00",
+        "phone": null,
+        "website": "https://www.chick-fil-a.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "ef4dd926-ea94-4aab-9faa-70e8119c39c8",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "The Frutera"
+        },
+        "category": "restaurant",
+        "anchor_id": "f2186ae8-d4f6-4fe6-ba34-c5d6483c3641",
+        "hours": "Mo-Su 06:30-21:00",
+        "phone": null,
+        "website": "http://chefjohnnyhernandez.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "c6eb9b8d-e8b5-4990-a17d-1f6ab4681acb",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Whataburger"
+        },
+        "category": "restaurant",
+        "anchor_id": "9942121f-4adc-4bb1-a4bf-92b9af264e59",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": null,
+        "website": "http://whataburger.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "4cf3e929-9174-41b3-ad01-f27ae9748a91",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "FuelRod SwapBox Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "37815021-990a-4e4a-b5bb-b07704f24206",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.fuel-rod.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "1fc52b5c-5487-4d56-a8ce-845b163d5a32",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Jason's Deli"
+        },
+        "category": "restaurant",
+        "anchor_id": "530861d0-7194-4a9f-b31a-6f0a0c28bab7",
+        "hours": "Mo-Su 05:00-22:00",
+        "phone": "+12812337624",
+        "website": "http://www.jasonsdeli.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "74576124-951f-4b43-8571-0eee4995dc66",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market"
+        },
+        "category": "shopping",
+        "anchor_id": "8796bc9f-a7e7-423a-8a49-03238d21538c",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f0acea8f-e657-4ff8-9c73-d67056d438fc",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Smashburger"
+        },
+        "category": "restaurant",
+        "anchor_id": "f90efb46-37de-40fd-9faf-e3a05bb6d4b1",
+        "hours": "Mo-Su 05:30-21:00",
+        "phone": null,
+        "website": "http://smashburger.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d3be7ec8-744a-4c32-b474-9fe390060c38",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Ray's BBQ Shack"
+        },
+        "category": "restaurant",
+        "anchor_id": "01893003-b778-4009-a37f-87ec134b1292",
+        "hours": "Mo-Su 05:30-21:00",
+        "phone": null,
+        "website": "http://www.raysbbqshack.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8c324845-7adf-402d-a53e-d09850ecda4d",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Brooks Brothers Red Fleece"
+        },
+        "category": "shopping",
+        "anchor_id": "53b06f92-5457-4442-b4b6-878f8f592840",
+        "hours": null,
+        "phone": "+12818154820",
+        "website": "http://www.brooksbrothers.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d42223c5-40fb-417a-9aa8-d51d8c1f560c",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Panda Express"
+        },
+        "category": "restaurant",
+        "anchor_id": "f631efb7-942a-4cd2-85ff-af9caa8b5259",
+        "hours": "Mo-Su 07:00-21:30",
+        "phone": null,
+        "website": "http://www.pandaexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "a5093ea3-6f69-4a9f-be86-7b3895a839f0",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Tagliare"
+        },
+        "category": "restaurant",
+        "anchor_id": "38a3dcdf-4b10-4c32-9cc4-bfa88dca3085",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2cc9126d-546b-43ef-88f8-aedcb245d517",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Bullritos"
+        },
+        "category": "restaurant",
+        "anchor_id": "5c0a89af-ef86-45e1-bcb6-33a6cecc102b",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": null,
+        "website": "http://www.bullritos.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e9fb484a-64be-41cc-a655-7431e881689b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "q"
+        },
+        "category": "shopping",
+        "anchor_id": "40994718-3a3e-4275-9fc9-4bcdd296ccf2",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": "+12812337195",
+        "website": "http://www.pintoranch.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "58ed58a7-d01a-4d33-aa31-1759a85fc0e8",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Soundbalance"
+        },
+        "category": "shopping",
+        "anchor_id": "66a51abd-fce7-483d-9111-c4f35928e491",
+        "hours": "Mo-Fr 06:30-21:00; Sa-Su 07:00-21:30",
+        "phone": "+12812092593",
+        "website": "http://soundbalance.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "be3a2f9a-17d7-42c5-a7e8-1cffdd323bfe",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Texas Monthly News"
+        },
+        "category": "shopping",
+        "anchor_id": "f9b8408c-f778-4add-be5b-5897ec611f39",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "7dc282e7-b14c-46d4-a9af-e4078e23c716",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "KPRC 2 Travel Store"
+        },
+        "category": "shopping",
+        "anchor_id": "d01add87-3222-4b60-87bd-d3450b30efb4",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8d9cf343-b21e-47b2-81ca-8d29ccc804e6",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Altitude"
+        },
+        "category": "shopping",
+        "anchor_id": "d866d151-4408-45ba-bf47-8145606b22ac",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f45d96af-cf50-4b9a-a81f-ec39ad56e10b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market"
+        },
+        "category": "shopping",
+        "anchor_id": "e95d3c40-87df-46bc-aa53-db6bff02237a",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "c401bf3a-95cd-4ad0-8865-486ea9fb64f7",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Bayou City Travel mart"
+        },
+        "category": "shopping",
+        "anchor_id": "94fd8209-7bb0-461c-a06f-a03e531f4432",
+        "hours": "Mo-Su 05:00-22:00",
+        "phone": "+12812337758",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2372c57e-6b2a-4a35-a04b-a7e55f3790d9",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Brooks Brothers"
+        },
+        "category": "shopping",
+        "anchor_id": "33cfcde7-ed44-4830-89f8-4ee5eef40d0b",
+        "hours": "Mo-Su 05:15-21:00",
+        "phone": "+12812337750",
+        "website": "http://www.brooksbrothers.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "47df24cb-ee0c-4953-949e-0049676ff62b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Sunglass Icon"
+        },
+        "category": "eyewear.opticians",
+        "anchor_id": "26776faf-6db6-4030-a73b-607ebe819ebe",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": "+12812333326",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "55b5fa88-b856-4858-8343-e9dbbec45f1b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Hugo Boss"
+        },
+        "category": "shopping",
+        "anchor_id": "b2f5bf91-57d1-4e33-97e0-dc25f36e98d3",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+13463008541",
+        "website": "https://www.hugoboss.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e85921b7-28ef-4dc1-92ba-32dfae5071f0",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Simply Books"
+        },
+        "category": "shopping",
+        "anchor_id": "f32b8f23-1ba3-4a30-b979-b827231fbad0",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": "+12812336630",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "fedf40dc-3509-47ba-83df-5c1a08502435",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Camden Food Co"
+        },
+        "category": "restaurant",
+        "anchor_id": "ba165f9b-911e-4289-bbc0-00f99bf7c98f",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": null,
+        "website": "http://www.camdenfoodco.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "9db74ae7-7bdb-4fdb-941c-07648a292cf2",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "DR34M"
+        },
+        "category": "shopping",
+        "anchor_id": "650b4b0b-7a6d-46a2-a191-4e10774b69e6",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "16d31014-1c22-4584-bc49-cb636042b270",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Potbelly"
+        },
+        "category": "restaurant",
+        "anchor_id": "5c34ef5c-2bfe-4a02-be5b-5c94d229e701",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": "https://www.potbelly.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2732a1e2-b8f2-4f3b-9bcf-b8a80d5322a6",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Pick Up Stix"
+        },
+        "category": "restaurant",
+        "anchor_id": "33d81247-1f64-4ec3-9f1f-cc02510dae2a",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "https://www.pickupstix.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "89df3275-e0b3-4d3f-8920-7786de1a6628",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Wendy's"
+        },
+        "category": "restaurant",
+        "anchor_id": "b88b5590-6af2-437e-86e5-5eb70f9fa198",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.wendys.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "41b7c580-3107-43aa-b946-6391ed122be9",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Tumi"
+        },
+        "category": "shopping",
+        "anchor_id": "0abce37c-d3eb-44ae-80ac-3fef25577235",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "https://www.tumi.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "09158548-936e-4393-92fc-1a97567f039a",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Swarovski"
+        },
+        "category": "shopping",
+        "anchor_id": "0233e220-381f-4b71-a8a7-36a8fe46de49",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "http://www.swarovski.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d6adb5f1-51da-46f3-bd85-94e0c7a69407",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Made in Texas"
+        },
+        "category": "shopping",
+        "anchor_id": "f6ecf399-0910-4ff8-8b56-bfd4a0224fc7",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "03cbbb73-bf96-4e7d-a099-305765bb3c41",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Adrenaline"
+        },
+        "category": "shopping",
+        "anchor_id": "2ebedfb6-d6ad-4dc0-bab5-033bd8118ae8",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "9612f792-fde0-454d-a8aa-ad2618e5d548",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Ember"
+        },
+        "category": "restaurant",
+        "anchor_id": "053b666f-f5a9-4206-8b26-f0a4e232db4b",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "acd5bdc1-bf20-40b4-933a-21fa1d22b998",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Bam Bam"
+        },
+        "category": "restaurant",
+        "anchor_id": "e098bbaa-ec43-477d-b8b5-216ae9d64536",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "3cae4101-8415-4019-b51e-4b4b9ef08eae",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Jo Malone"
+        },
+        "category": "shopping",
+        "anchor_id": "faaf1336-ad5c-4d82-800e-cee9d69cd779",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "54b94f11-c6c1-46db-bb0b-f5d22e04789f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Manready Mercantile\t"
+        },
+        "category": "shopping",
+        "anchor_id": "619be88b-7514-430c-93f8-075586ff4264",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e8b4d214-d75c-4dd4-8cb8-9d3102686b56",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Starbucks"
+        },
+        "category": "restaurant",
+        "anchor_id": "971fef4a-3266-49a1-8df0-2e167e5f516e",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.starbucks.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "6a606a1c-8879-46bc-9bb1-a32f98ebfc62",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express/World Bean"
+        },
+        "category": "shopping",
+        "anchor_id": "76374ea2-e4ca-4a51-b260-d2367a7481e2",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "a147053a-77b5-43ef-9cb5-c2120934644d",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Kiehl's"
+        },
+        "category": "shopping",
+        "anchor_id": "0729231a-5fab-49fe-b408-b798e1ddfe97",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "362d8f0a-9acd-47e6-9c32-4759bd682ebc",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Pala"
+        },
+        "category": "restaurant",
+        "anchor_id": "078abca5-276b-4688-b705-66bb7fd9247b",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "464e2aa7-3fb1-4dfb-bb26-dcd71a01e4ed",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Vida Taqueria\t"
+        },
+        "category": "restaurant",
+        "anchor_id": "6010844d-87ea-4bd2-ad58-9792f8c3a510",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8dec1e98-0452-4014-8be9-ab252344d3c7",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market\t"
+        },
+        "category": "shopping",
+        "anchor_id": "af319e37-e388-4b8c-8f7f-7905bab414b7",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e81f98fe-30ef-4a57-b131-407bc4c32df5",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Olio"
+        },
+        "category": "restaurant",
+        "anchor_id": "fa666e3f-3020-4e24-b9a2-5739e39f124d",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "fd6670ef-927f-4d25-9364-925870395bcc",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "FuelRod SwapBox Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "181a4dc7-18b6-4a3f-afb9-c69854f4d456",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.fuel-rod.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "80ab34d2-0515-4948-a700-bc77eda49e0f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Best Buy Express Automated Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "a3d57844-3cfc-48d1-8064-7e2c7c7a0f32",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.bestbuy.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "cb0edd5e-f54c-40f5-9440-a70f4671f96f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Ruby's Dinner"
+        },
+        "category": "restaurant",
+        "anchor_id": "a111439f-21cf-4234-8d4d-2f63a2b2ac81",
+        "hours": "Mo-Su 05:30-22:00",
+        "phone": "+12818211932",
+        "website": "http://www.rubys.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8f849995-53bd-4209-9529-1ca754c6b839",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Benefit Cosmetics Automated Kiosk"
+        },
+        "category": "cosmetics",
+        "anchor_id": "5bf10359-3c37-461b-a823-4732a14ff653",
+        "hours": null,
+        "phone": null,
+        "website": "https://www.benefitcosmetics.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f34850c9-ed52-47ba-a561-ad1c99eaea4d",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "US News And World Report"
+        },
+        "category": "localservices",
+        "anchor_id": "beaefc7a-f896-4275-a1f2-f597f9781d9d",
+        "hours": "Mo-Su 05:00-21:00",
+        "phone": null,
+        "website": "https://www.usnews.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "b7abbb2e-20b8-4eca-8ac4-8f217ae6f59d",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Univision"
+        },
+        "category": "shopping",
+        "anchor_id": "113573ce-cb00-4007-a559-7cf4c1cd2863",
+        "hours": "Mo-Su 05:30-22:00",
+        "phone": "+12812319041",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "a2d103f4-1512-4d59-bee2-b63fb339eaae",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Houston!"
+        },
+        "category": "shopping",
+        "anchor_id": "6c6ef919-e47f-4b94-8f53-134724034d7a",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "c61f269c-4105-4c20-a41c-f390c8e6b29e",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Urban Crave"
+        },
+        "category": "restaurant",
+        "anchor_id": "71f907ca-ced4-4fbd-aa81-ee219b7666ee",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": null,
+        "website": "http://www.craveurbancrave.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8928e1a2-2daf-445d-b8f4-2cd6453dc28f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Starbucks"
+        },
+        "category": "restaurant",
+        "anchor_id": "f78099fd-442f-41ec-879c-cab91dcab067",
+        "hours": "Mo-Su 5:00-21:30",
+        "phone": null,
+        "website": "http://www.starbucks.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "478f97aa-9721-420e-94aa-4bf701f997f8",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Panopolis"
+        },
+        "category": "restaurant",
+        "anchor_id": "ad8d4186-6e85-42be-83d1-91c6fce83c63",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d76aaf08-2c9b-4f74-932d-ac71070bf0b2",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Landry's Seafood"
+        },
+        "category": "restaurant",
+        "anchor_id": "7b4ee337-6150-4c07-8e5c-f422315d3248",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": null,
+        "website": "http://www.landrysseafood.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "7138ea1f-515c-42f7-b7d1-50a683ba97e5",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Rocky Mountain Chocolate Factory"
+        },
+        "category": "shopping",
+        "anchor_id": "21ee8f5c-8356-491a-b809-9a54488185b7",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": "+18322967828",
+        "website": "http://www.rockychoc.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "278b28fb-ad17-4470-beaf-e9db4490080c",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Paul & Shark"
+        },
+        "category": "shopping",
+        "anchor_id": "fd1e6361-8db3-4142-bcb7-d567d9247aaf",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+18329956897",
+        "website": "http://www.paulshark.it",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "a32ca0d8-1449-4f3d-8064-95aedeb64a3e",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Mr.Fredric"
+        },
+        "category": "shopping",
+        "anchor_id": "19b62fe8-b6d5-4fdf-937f-1c1023fc4d95",
+        "hours": "Mo-Su 05:00-21:00",
+        "phone": "+12812337673",
+        "website": "http://www.mfredric.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d991fb85-2ccb-4261-8c33-beab88a33da0",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Einstein Brothers Bagles"
+        },
+        "category": "restaurant",
+        "anchor_id": "c1326aa9-dfbe-4b61-a717-41839db14918",
+        "hours": "Mo-Su 05:00-21:30",
+        "phone": null,
+        "website": "http://www.einsteinbros.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "280c9ba5-5116-43f6-8c5e-a2ae4bb0539b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "La Salsa "
+        },
+        "category": "restaurant",
+        "anchor_id": "c0b31f71-081d-4bb7-bce0-025aae0f1bdc",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": "+12814439027",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "05363d33-b4bc-411a-81db-b3e09d5307a0",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Werndy's"
+        },
+        "category": "restaurant",
+        "anchor_id": "d4a34c1d-6615-4a6d-a142-2f95ffa66457",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+12814434822",
+        "website": "http://www.wendys.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "5ed3cf51-6af2-4cb3-9454-3ed8b60a2a28",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "MAC"
+        },
+        "category": "cosmetics",
+        "anchor_id": "913ade86-98b6-45fe-9800-2876f1ffa941",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": null,
+        "website": "http://www.maccosmetics.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d5723a17-559a-464d-886b-6b90e91f332e",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Le Grand Comptoir"
+        },
+        "category": "restaurant",
+        "anchor_id": "c9d77998-5a56-4ce4-8588-ad83fcb1fcf2",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": null,
+        "website": "http://le-grandcomptoir.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "78ae9322-7083-4d3d-9f69-a539aa6dc56e",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Upper Crust Grab & Go"
+        },
+        "category": "restaurant",
+        "anchor_id": "ecb4e336-7906-4686-b73c-23dfe65a6e53",
+        "hours": "Mo-Su 06:00-21:30",
+        "phone": null,
+        "website": "http://www.uppercrust-baguettes.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "36567d3c-4f0f-43d4-91b0-247b22d996d3",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Center Bar"
+        },
+        "category": "beerwinespirits",
+        "anchor_id": "297cdc85-e03f-4983-a1fc-01b12ff69bee",
+        "hours": "Mo-Su 12:00-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "c288cabb-d473-4517-ba62-cd0114cffd84",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Rip Curl"
+        },
+        "category": "shopping",
+        "anchor_id": "72c95361-bd78-4f5e-8181-0b06b49252c7",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": null,
+        "website": "http://www.ripcurl.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d226fd25-a732-4fd3-8a9d-15726e8de92f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Umaizushi"
+        },
+        "category": "restaurant",
+        "anchor_id": "5652029e-c262-413b-9d74-a73968f51843",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f0dcc6ce-42f0-4452-b7fc-aca78521be4f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Culturemap"
+        },
+        "category": "shopping",
+        "anchor_id": "9ee7fcb6-41c6-4684-8d77-7ad931fb3653",
+        "hours": "Mo-Su 04:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2fe35033-c3e8-43b7-bbf1-fc2594162053",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "World Nectar"
+        },
+        "category": "restaurant",
+        "anchor_id": "ea748624-9542-438a-8002-646cc4d7cbc6",
+        "hours": "Mo-Su 05:00-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "cb148616-48c6-43a0-94b1-3b593bc80bc1",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Urban Crave"
+        },
+        "category": "restaurant",
+        "anchor_id": "9f295504-85ab-40f0-af22-076d7116a34e",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": null,
+        "website": "http://www.craveurbancrave.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f90317e9-e4e9-41e2-9771-35bb42ae5877",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market"
+        },
+        "category": "shopping",
+        "anchor_id": "74303b5a-0860-460d-9227-fbcbddb38f4e",
+        "hours": "Mo-Su 05:00-21:30",
+        "phone": "+12812333480",
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f07abcb5-0939-4cbb-a46d-e7c052f6c290",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Pappadeaux Seafood Kitchen"
+        },
+        "category": "restaurant",
+        "anchor_id": "6d87fad5-5a11-478e-8bbe-e936c92d99aa",
+        "hours": "Mo-Su 09:00-22:00",
+        "phone": "+12818217684",
+        "website": "http://www.pappadeaux.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "43af32f8-1ae6-4063-b055-7dbff56e8192",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Americana"
+        },
+        "category": "shopping",
+        "anchor_id": "8d1a9ce5-81cf-4086-9018-b95837320c0a",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": "+17138160472",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8810d6db-35a7-4bd8-ac24-b327d3a5be40",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Best Buy Express Automated Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "9c914ded-9d43-4edc-af90-72f54eb46683",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.bestbuy.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d5842764-e781-45a6-8f41-a055ece04da8",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "My Sweets"
+        },
+        "category": "specialtyfood",
+        "anchor_id": "c9c1f185-fd01-4f5c-80d9-0b67d300a876",
+        "hours": "Mo-Fr 06:30-21:00",
+        "phone": "+18324211217",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f613225e-08b1-48f8-b7ce-fb255e67948b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "NYS Collection Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "775e1455-0268-4e3f-911b-7081549a1f27",
+        "hours": "Mo-Fr 06:30-21:00; Sa-Su 07:00-21:00",
+        "phone": "+18324211217",
+        "website": "https://nyscollection.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "17b2d0ec-d461-4b50-ad78-9712f070b09b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "La Tapenade Mediterranean Cafe"
+        },
+        "category": "restaurant",
+        "anchor_id": "d8df8deb-0030-4cd5-ad49-31547fcb008b",
+        "hours": "Mo-Fr 06:00-21:30; Sa-Su 06:30-21:30",
+        "phone": "+12812333684",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "302e4776-a240-4f3d-a774-f6677e2fb2ee",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Starbucks"
+        },
+        "category": "cafe",
+        "anchor_id": "dc0de786-7f6a-4858-a811-dd101d84196f",
+        "hours": "Mo-Su 05:00-23:00",
+        "phone": "+12812333760",
+        "website": "http://www.starbucks.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "feafec30-6ab0-4960-85cb-8f98b961385f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Panda Express"
+        },
+        "category": "restaurant",
+        "anchor_id": "c878997c-feb1-4034-9fa7-332143448f8f",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+12812099986",
+        "website": "http://www.pandaexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "20171827-cddc-4257-bf52-b6218ee12a0c",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Pappasito's Cantina"
+        },
+        "category": "restaurant",
+        "anchor_id": "fca370d6-1e86-4a34-93db-262c28784675",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+12818212266",
+        "website": "https://pappasitos.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "ddf8be2c-b057-4bb2-83e1-a87e3644c873",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "The Market by Villa"
+        },
+        "category": "restaurant",
+        "anchor_id": "c03344df-0cda-4715-aaf6-a46c08b9cc8a",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+12812337460",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "01c2a8f9-c343-4435-b134-120842bdaaaf",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Tagliare"
+        },
+        "category": "restaurant",
+        "anchor_id": "9c3f427c-dbb3-46ab-96fc-56cc9244ee76",
+        "hours": "Mo-Su 05:30-21:30",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f1f40452-d4ee-4df9-8b5d-cd7c9cad30b9",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Yogen Fruz"
+        },
+        "category": "specialtyfood",
+        "anchor_id": "5f18c207-e8a6-48d5-9bd6-4ac61bac11e3",
+        "hours": "Mo-Su 05:00-22:00",
+        "phone": "+12812090944",
+        "website": "http://www.yogenfruz.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "753cc7e6-1c8a-47fd-91d6-2a857608c5ac",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Einstein Bros. Bagels"
+        },
+        "category": "restaurant",
+        "anchor_id": "b624c9ed-0122-4bea-a14a-89d34cf1d6bb",
+        "hours": "Mo-Su 05:00-22:00",
+        "phone": "+12812090944",
+        "website": "http://www.einsteinbros.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "5d5bc9ab-1fb6-437d-abf0-bfa2ce30dd6f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Lids"
+        },
+        "category": "sportinggoods",
+        "anchor_id": "e92653f5-1550-41b0-bbaa-bf602f65ad3f",
+        "hours": "Mo-Su 06:15-21:30",
+        "phone": null,
+        "website": "https://www.lids.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "0a5fef0a-ca77-45ee-b920-96f5c048ab9c",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Mindworks"
+        },
+        "category": "toystore",
+        "anchor_id": "1368f21b-3d64-4d86-990f-c559a2864e9c",
+        "hours": "Mo-Fr 06:00-21:30; Sa-Su 07:00-21:30",
+        "phone": null,
+        "website": "http://www.mindworkstoys.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "10eeb9ad-62d9-499c-9596-15e9d957e15f",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Swatch"
+        },
+        "category": "shopping",
+        "anchor_id": "c5bcde06-9a73-4eeb-b16c-414eacbd6e2d",
+        "hours": "Mo-Fr 06:30-21:30; Sa-Su 07:00-21:30",
+        "phone": null,
+        "website": "http://www.swatch.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "2e990d5a-870e-4669-90a4-d2cc61f9fa17",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Dufry Tax & Duty Free"
+        },
+        "category": "shopping",
+        "anchor_id": "5140ab27-f15e-48b5-9e29-c209df711c0c",
+        "hours": "Mo-Su 06:30-23:00",
+        "phone": null,
+        "website": "https://www.dufry.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d13dc1ce-89ec-4f20-805d-340ec2eb8c5d",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market"
+        },
+        "category": "shopping",
+        "anchor_id": "c70da550-49c1-45dc-a6ea-3b4a021b0c8d",
+        "hours": "Mo-Su 05:00-21:30",
+        "phone": "+12812333480",
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "0f414384-b118-4559-9501-3499957cd132",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Sunglass Hut"
+        },
+        "category": "eyewear.opticians",
+        "anchor_id": "9df092a8-2757-4ebd-9935-ed6f059d9f99",
+        "hours": "Mo-Fr 06:30-21:30; Sa-Su 07:00-21:30",
+        "phone": null,
+        "website": "http://www.sunglasshut.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "43576afa-2ffb-4e5d-a5b2-39a913cb7b56",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Cat Cora's Kitchen"
+        },
+        "category": "restaurant",
+        "anchor_id": "2cb1a7c4-e54b-4992-b8ab-0c3549155939",
+        "hours": "Mo-Fr 06:30-22:00",
+        "phone": "+12816454681",
+        "website": "http://www.catcora.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "edc3ee71-725c-4939-bb3f-fcc4791fef6c",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "BluWire"
+        },
+        "category": "shopping",
+        "anchor_id": "5140b3ff-46da-4359-9b7f-547c93414d60",
+        "hours": "Mo-Su 05:30-22:00",
+        "phone": null,
+        "website": "http://shopbluwire.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "cb673907-d160-435e-8097-5a3188758c75",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Brookstone"
+        },
+        "category": "shopping",
+        "anchor_id": "2857197c-042d-4e2e-92ab-68ab200367db",
+        "hours": "Mo-Fr 06:30-21:30; Sa-Su 07:00-21:30",
+        "phone": null,
+        "website": "http://www.brookstone.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "11554cb1-c836-4c20-a37d-2ff5866e84b3",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Johnston & Murphy"
+        },
+        "category": "shopping",
+        "anchor_id": "ce608bd9-fa04-411f-bf9f-e159a8e7754e",
+        "hours": "Mo-Fr 06:00-21:30; Sa-Su 07:00-21:30",
+        "phone": null,
+        "website": "http://www.johnstonmurphy.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "3bcb84e5-1a3d-4cf2-8c11-4c6a4ef2c2a7",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Sports Corner"
+        },
+        "category": "sportinggoods",
+        "anchor_id": "fc5d5423-037b-4376-b59e-feba1929ea02",
+        "hours": "Mo-Su 06:30-21:00; Sa-Su 07:00-21:00",
+        "phone": "+12818218300",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "8c6a48cf-9dfb-46b9-a07c-f33d8c7b2abd",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Dunkin Donuts"
+        },
+        "category": "restaurant",
+        "anchor_id": "a0202953-631b-493a-ae8a-43c56722f8de",
+        "hours": "Mo-Su 05:00-22:00",
+        "phone": "+12812333231",
+        "website": "http://www.dunkindonuts.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "00053086-8277-4c64-a3e7-48fff89dbeaa",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Eddie Bauer"
+        },
+        "category": "shopping",
+        "anchor_id": "9fc977c1-5773-4e17-af74-633bb3e8b484",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": null,
+        "website": "http://www.eddiebauer.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "6a0ce065-a6d6-46f9-a42b-075bbbad888c",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "L'Occitane"
+        },
+        "category": "cosmetics",
+        "anchor_id": "cfb37342-bdc0-4541-ab35-a8dc1065ff07",
+        "hours": "Mo-Fr 06:00-21:30; Sa-Su 07:00-21:30",
+        "phone": null,
+        "website": "http://www.usa.loccitane.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "3007ee40-9fa6-4ea6-b7ad-67e7eef41b25",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market"
+        },
+        "category": "shopping",
+        "anchor_id": "d440e48e-0f60-4195-9fef-53e82250f9a2",
+        "hours": "Mo-Su 05:00-21:30",
+        "phone": "+12812333480",
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "5dca7324-99fc-4ce7-bc88-2f2b5d3e79f0",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Auntie Anne's"
+        },
+        "category": "restaurant",
+        "anchor_id": "c63ad26b-061c-46aa-a845-3e36fff43f5c",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": "+12812091600",
+        "website": "http://www.auntieannes.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "5db90d3c-a92d-4ffd-9a98-1775eb865362",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Cinnabon"
+        },
+        "category": "restaurant",
+        "anchor_id": "b0d91cbf-8db2-4677-b3d6-dbd0ccb1c53f",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": "+12812091600",
+        "website": "http://www.cinnabon.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "3092ef19-c67a-4824-a3d7-e26c56d8f160",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Nestle Toll House"
+        },
+        "category": "restaurant",
+        "anchor_id": "cd06dba9-4665-47fc-8157-5191b60a4e9b",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": "+12812091600",
+        "website": "http://www.nestlecafe.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "0ef1ebb8-0aba-4fd5-a6ba-b5710be0f7fb",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Wendy's "
+        },
+        "category": "restaurant",
+        "anchor_id": "e387785f-91e3-4725-b36d-ae458cf8444d",
+        "hours": "Mo-Su 05:00-21:00",
+        "phone": "+12818218833",
+        "website": "http://www.wendys.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "98e1fd1a-c3bd-4dd3-b5d1-1b72c49d52e5",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Zori Bistro"
+        },
+        "category": "restaurant",
+        "anchor_id": "bfabeca7-106f-43d0-9394-49cfeb5b567d",
+        "hours": "Mo-Su 05:00-21:00",
+        "phone": "+12812337624",
+        "website": "http://www.zoribistro.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "efc8e503-8cb3-4b3e-acd9-a27758c678ca",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Taxco Sterling Co"
+        },
+        "category": "jewelry",
+        "anchor_id": "209bccb2-6aa6-4f92-bf88-7f7283217e94",
+        "hours": "Mo-Fr 06:30-21:00; Sa-Su 07:00-21:00",
+        "phone": null,
+        "website": "http://www.taxcosterlingjewelry.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "1350c90d-4ca8-4cf6-9a34-8d232e0a7c87",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Starbucks"
+        },
+        "category": "cafe",
+        "anchor_id": "b784fed0-f5f9-49bb-8e28-8e7d8318f74f",
+        "hours": "Mo-Su 05:00-21:00",
+        "phone": "+12812333318",
+        "website": "http://www.starbucks.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "c8b88815-66ec-47b8-b23a-eb6788066cc8",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Nature's Kitchen"
+        },
+        "category": "restaurant",
+        "anchor_id": "c2c68da7-a69b-497c-abbd-a45cc7a83d0a",
+        "hours": "Mo-Su 05:00-21:00",
+        "phone": "+12817842282",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "6368b5d3-018a-4a11-9bdc-bb1d2f38b211",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market"
+        },
+        "category": "shopping",
+        "anchor_id": "88268408-432b-4f63-91a6-c5e8820bc579",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "22caa298-b34c-428e-8c82-0a7f43649db6",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Le Grand Comptoir"
+        },
+        "category": "restaurant",
+        "anchor_id": "06991917-624c-473b-a54a-4605ac4eb424",
+        "hours": "Mo-Su 06:00-21:00",
+        "phone": null,
+        "website": "http://le-grandcomptoir.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "86a8fb76-6068-4348-8b63-0606c4124c01",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market"
+        },
+        "category": "shopping",
+        "anchor_id": "fc25ba36-bd45-487f-b066-9a6d706b4923",
+        "hours": "Mo-Su 05:00-21:30",
+        "phone": null,
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "5bfd5304-be8b-4aab-9c55-5e250dcf9ccc",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Best Buy Express Automated Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "11f787c0-ced1-4154-93d8-26a99589e774",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.bestbuy.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "fed5121c-450a-4ad7-b066-28f0de10d821",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Space Corner"
+        },
+        "category": "shopping",
+        "anchor_id": "2270bb5b-b7da-4d3f-8c26-ba48b4465969",
+        "hours": "Mo-Su 06:30-21:30",
+        "phone": "+17138160472",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "18a0687a-679c-466d-902c-e9060135c282",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "SOHO Fashion"
+        },
+        "category": "shopping",
+        "anchor_id": "b20ce46b-5472-4406-a331-f93c4dc5e61b",
+        "hours": "Mo-Su 06:30-21:00",
+        "phone": "+12103243618",
+        "website": "http://sohostyle.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "d7f16ef1-6151-4e1d-a706-5554887c35fd",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Soundbalance"
+        },
+        "category": "shopping",
+        "anchor_id": "b7174615-db03-48a2-bb10-99e7d1e826a7",
+        "hours": "Mo-Fr 06:30-21:30; Sa-Su 07:00-21:00",
+        "phone": null,
+        "website": "http://soundbalance.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "abf8ed7b-d687-4593-93ec-695d68213af4",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "CIBO Express Gourmet Market"
+        },
+        "category": "shopping",
+        "anchor_id": "6d4f29ce-ee4f-448f-875f-ef7cd285c755",
+        "hours": "Mo-Su 05:00-21:30",
+        "phone": "+12812333480",
+        "website": "http://www.ciboexpress.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "13732219-dfac-481d-9309-165229187f8d",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "NYS Collection Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "f8046678-0d9e-434f-ac4e-ca4451956742",
+        "hours": "Mo-Fr 06:30-21:00; Sa-Su 07:00-21:00",
+        "phone": "+18324211217",
+        "website": "https://nyscollection.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "9acc8dd2-eb81-4072-9f6b-80ddd6bb1f52",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Dufry Tax & Duty Free"
+        },
+        "category": "shopping",
+        "anchor_id": "de2babe1-e925-4db8-be06-eb665d8a1edf",
+        "hours": "Mo-Fr 07:30-21:00; Sa-Su 07:00-21:00",
+        "phone": null,
+        "website": "https://www.dufry.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "392a73bc-3b37-48da-8113-32b7e2588056",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Real Food Co"
+        },
+        "category": "restaurant",
+        "anchor_id": "cca9739b-4589-4d4f-97c5-ed1bc468ce8d",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "9b8f9991-5f79-47a9-8d60-7a7133c212cd",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Pink's Pizza"
+        },
+        "category": "restaurant",
+        "anchor_id": "59b08e4e-7dec-4b21-9ccf-49e750e5bf01",
+        "hours": "Mo-Su 06:00-22:00",
+        "phone": "+12812303498",
+        "website": "http://pinkspizza.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "638f29d1-8eaf-4013-b715-4fb652e8e86d",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "The Local at IAH"
+        },
+        "category": "restaurant",
+        "anchor_id": "824e3937-5a66-467f-aeb4-4e3050af5855",
+        "hours": null,
+        "phone": "+12812333377",
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "95d1fbb3-422c-442d-935e-84b9e6b33440",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Shoe Shine"
+        },
+        "category": "localservices",
+        "anchor_id": "b636a1f6-13f9-40b4-88ee-b19bc40cfa78",
+        "hours": null,
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "326207f0-2f5c-4e67-ac9f-8122f9f1940b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Best Buy Express"
+        },
+        "category": "shopping",
+        "anchor_id": "2b7bfdbb-37ab-4507-9bcc-bef214031ab3",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.bestbuy.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e0bc5292-2dbd-4ab3-9676-7aac8e6e5638",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Benefit Cosmetics Automated Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "ee9afd98-c48c-4b62-a561-5c7ffc34c8df",
+        "hours": null,
+        "phone": null,
+        "website": "https://www.benefitcosmetics.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "288b7ff2-ee86-40ca-9778-18ea57c39e5a",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "ATU Duty Free "
+        },
+        "category": "shopping",
+        "anchor_id": "99374446-e276-4b73-8dd4-ce3b73931860",
+        "hours": "Mo 05:30-20:30; Tu-Su 05:30-23:30",
+        "phone": "+18329956917",
+        "website": "https://www.atu.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e7098560-9e68-4e8a-a799-92b9ff31772b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Red Mango"
+        },
+        "category": "specialtyfood",
+        "anchor_id": "bc73c7bc-056f-4a46-ae09-709e34e377c3",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.redmangousa.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "c1d6c718-41b7-4316-ac7d-4415642fb0c3",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Univision"
+        },
+        "category": "shopping",
+        "anchor_id": "7b98194a-ddff-4cae-9d7a-a6eb3d13e06c",
+        "hours": "Mo-Su 05:30-01:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "ce2bf0eb-98ce-4803-b9cf-33b6b1916073",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Hugo's Cocina"
+        },
+        "category": "restaurant",
+        "anchor_id": "efc9b379-a788-4d25-8fce-2f3604ae5d2b",
+        "hours": "Mo-Su 06:00-24:00",
+        "phone": null,
+        "website": "http://www.hugosrestaurant.net",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "bd9b2e9c-6a52-4b47-a9af-e3ec5ffd5c9b",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Peet's Coffee & Tea"
+        },
+        "category": "coffee.tea",
+        "anchor_id": "1f26751f-50b1-4362-8a28-37369c2755ce",
+        "hours": "Mo-Su 05:00-22:00",
+        "phone": null,
+        "website": "http://www.peets.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "48edc75a-d66c-4ea1-b471-f1c625901f49",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "FuelRod SwapBox Kiosk"
+        },
+        "category": "shopping",
+        "anchor_id": "c0ea3739-472c-4a33-95c2-6e6412ff5877",
+        "hours": null,
+        "phone": null,
+        "website": "http://www.fuel-rod.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "70d9f227-03d2-4db8-adb4-dcb3ed307c69",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Chanel"
+        },
+        "category": "shopping",
+        "anchor_id": "0dd1e0b9-d2d3-4646-a521-17132e8112f0",
+        "hours": "Mo-Su 05:30-01:00",
+        "phone": null,
+        "website": "http://www.chanel.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "e077d077-7555-47ac-a4a4-869c4312a9da",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Pandora"
+        },
+        "category": "jewelry",
+        "anchor_id": "a13f1cb5-50dd-4f9d-8c3c-46872db99a4e",
+        "hours": "Mo-Su 08:00-23:30",
+        "phone": "+12812144071",
+        "website": "http://www.pandora.net",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "5adfba7d-7c9d-4061-84f5-af254daf119d",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Corsa Collections"
+        },
+        "category": "shopping",
+        "anchor_id": "7ee85f2c-b394-4533-8221-4f29b35f0298",
+        "hours": "Mo-Su 08:00-23:30",
+        "phone": "+12812144095",
+        "website": "http://corsacollections.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "1040c8b4-7b9c-4ff9-a14a-974976f1f6ac",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Tony's Wine Cellar & Bistro"
+        },
+        "category": "beerwinespirits",
+        "anchor_id": "a9ec8ed6-97d9-4bc9-af97-15b3516dce89",
+        "hours": "Mo 12:30-22:00; Tu-We 12:30-20:00; Th-Sa 12:30-22:00; Su 12:30-20:00",
+        "phone": null,
+        "website": "http://tonyshouston.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "f33bbf0c-52f7-455f-85df-11b68d49cd7e",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "Ciao Gourmet Market"
+        },
+        "category": "restaurant",
+        "anchor_id": "671eb045-a29e-4c08-9585-7dcec84a30ab",
+        "hours": "Mo-Su 11:00-20:00",
+        "phone": null,
+        "website": null,
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    },
+    {
+      "id": "577e2043-d4eb-4eea-9c96-075cf98e395e",
+      "type": "Feature",
+      "feature_type": "occupant",
+      "geometry": null,
+      "properties": {
+        "name": {
+          "en": "TUMI"
+        },
+        "category": "shopping",
+        "anchor_id": "3cee71e0-f6bf-4992-bb4c-cd00dbb9f4c9",
+        "hours": "Mo-Su 08:00-23:30",
+        "phone": null,
+        "website": "https://www.tumi.com",
+        "validity": null,
+        "correlation_id": null,
+        "RoutePoints": null
+      }
+    }
+  ]
+}

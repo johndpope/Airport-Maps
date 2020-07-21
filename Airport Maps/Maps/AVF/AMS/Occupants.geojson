@@ -1,0 +1,3540 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "6bc54d16-ab6a-4b71-b760-7b9c6db9a5bd",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Segafredo Espresso Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761128100210469,
+          52.31034047448678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "07d70cd2-23b1-4e61-afce-efcdc3bed891",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Esprit, Mexx, Tommy Hilfinger",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76127704437811,
+          52.3099164390401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "c12509fc-5148-429f-a697-d4be144d5ab3",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Gassan Plaza",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761307257066821,
+          52.31010033906353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "ddff6d24-fb0d-4dd3-84cf-d31cb8595b89",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "The Body Shop",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761050864960947,
+          52.31012959460233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "4f2eaa71-4e44-4ed8-a485-be7fd3c2724f",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Hema",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7603126310061326,
+          52.31009790826077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "9e21313d-12af-41d3-a88d-8e6e93f298b1",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Specialty Food",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Cupcakechic",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760574478469008,
+          52.30994318247169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "c4f856ab-8faa-4ae2-a266-44021ba2a639",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Public Services & Government",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Service Point Schiphol Plaza",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760402607686613,
+          52.30993864578846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "fa549253-e6c9-4954-a98a-2bc5d48cc135",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "WE Just for Kids",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760144633615526,
+          52.309923330815266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "251985f5-8360-47de-b9f5-99cd5ff40738",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "AH to go",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7599045425820075,
+          52.30991461453191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "7b9c5579-5491-4522-b4b3-9c22bede6ee1",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Books & Travel",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.759726215098907,
+          52.30990470400739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "6fd912c2-c307-46de-9863-171eb36bddc7",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Rituals",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760036489520357,
+          52.30991833241884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f3d02f44-d09e-4d53-a278-cf6aba53e157",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "La Place",
+        "WEBSITE": "https://www.laplace.com",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7624432773089005,
+          52.309058550232265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "62ae8895-c007-4740-9ced-02d8691746f3",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Café Rembrandt",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763063369191387,
+          52.3083239581269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "295fd64c-e3c3-4eb0-adf8-5a16a727cab9",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "House of Seasons",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763393806124839,
+          52.308314601910844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "ad74a625-adda-453f-99e7-1fac8df2e398",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Coiffure en Vogue",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763048460643767,
+          52.308472797318665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "16238669-2d17-49a2-b7e1-5f1c53282a72",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Toko to go",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763171511871126,
+          52.30846991021903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "1aea7c13-9fb7-4686-9251-c262f1da00f4",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Vila & Pieces",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763159604523362,
+          52.30855442026209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "32d774c0-75ac-4281-b9b6-5dca48b1cf76",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Etos",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763168001297502,
+          52.308655585145424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "76dbcb37-e49d-4156-9469-d6e53c7b5c6e",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Expo",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763176863419453,
+          52.30874358519427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "18236c4f-0b54-4d3f-85dd-0db4b1b0d168",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "AH To Go",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763412949973234,
+          52.30864935597469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "e9da1586-7b1e-4e38-a98c-6107faca9593",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Hello Goodbye Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763441422510616,
+          52.308506123531416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "11a6a0cc-bb6c-4bfd-9066-6a1f2b37faaa",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Health & Medical",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Apotheek Schiphol Plaza",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76335612139946,
+          52.30850978271159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "52f39c56-8ed4-4d11-a360-4203ac88e6d6",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Kappé Perfumes & Colors",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763432855927249,
+          52.30889679622763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "57fb59a0-4c49-40fb-8c5f-d5c2744c1988",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Airport Telecom Shop",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763497367991619,
+          52.309033551239516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "1d1d3a0e-aa50-492a-bbff-899e2f46aacd",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Photography Stores & Services",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Capo",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763192217621855,
+          52.308971632845505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "c6131a1e-a47f-4a54-b44f-db8ffee542d5",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Fashion",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "G-Star Raw",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763007829552567,
+          52.308979745379645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "678c93f6-4bde-4453-8ccd-6fd4cdab2eae",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "News & Books",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7631299812497865,
+          52.309361778543064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f5d2b316-b87d-41b7-b8d2-d718458bec06",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Paolo Salotto Luxury Leathergoods",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763275673894388,
+          52.30963944568319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a08cbef6-3cca-46ab-ba41-7fa08a5e6cfa",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "America Today",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763478601161325,
+          52.30947899253267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "69ffbc6f-49c8-4154-8aa2-edb88f558b07",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Juggle Juice Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763495370610061,
+          52.30961924468198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "c4b5318c-ab95-4ac8-8f8e-fb93d2b4d038",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "H & M",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763517693987523,
+          52.309836420876934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "2be17317-5d69-42ae-83b2-4c8032ca5536",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Vlaamse Frites",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763445320521758,
+          52.30991888154585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "43b75349-c824-4932-8f4b-15928a003db2",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Segafredo Espresso Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7635622048498805,
+          52.309987794907656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "5e7c4398-1bce-4b84-98d4-3b03bc6a593f",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "BLOEM!",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760099204742533,
+          52.31009225814943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "d14fcb47-a7dd-4428-bf8c-df504288404e",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Banks & Credit Unions",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "ABN Armo",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763758862125355,
+          52.30863587095816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "625bfc6b-0ee9-48f2-bd74-1a94c3950594",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Aviflora",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763047864213729,
+          52.30929253737187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "b3fa35b2-9868-425c-8b0a-0839868de8dd",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Dutch & Delicious",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763137156235963,
+          52.309433523998955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "d44ca515-6000-4ebe-bb4e-a7e3f4c60818",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Shoes by Paolo Salotto",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763172225448627,
+          52.309833113029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "835c69c1-df8c-44b6-b8fc-ba950c6b74c0",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Pizza per Tutti",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763048129102926,
+          52.30988238393137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "93fa873a-5e4c-4731-a3ac-d7ce5fbaa5df",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Per Tutti",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76292092220685,
+          52.309893140556056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "5b4033cc-be5d-4fce-bd4c-a1b33e152bc2",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Starbucks",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762849430935695,
+          52.30982225855218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "cf3e4401-1b1f-4f57-9a83-b5e9d9fd6ea2",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "La Place Express",
+        "WEBSITE": "https://www.laplace.com/",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762571880483767,
+          52.30917756123073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "72a60c98-59be-4707-96db-efb899d0c662",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Hema Food",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762708410169044,
+          52.30914485015398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "4ce6d5f8-0411-4f4b-bb39-15b1608cc33b",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Happy Seafood",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762698018097804,
+          52.309045860597486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "94bb75f9-9171-4f66-848b-fd42b40aef97",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "News & Books",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762060532431042,
+          52.30959961887631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "1ab45b85-315b-4d5e-9745-f62e9c478e07",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Outdoor & Travel by Paolo Salotto",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7621311465851095,
+          52.31018549858314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "73f532c5-d607-4a09-8160-812dca7154f8",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fleurtiek",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762132787649989,
+          52.310132891151234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "120d9cb5-20ae-4935-a313-491b725304b8",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Suitsupply",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762269088537343,
+          52.310166617017956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "932b004f-8482-4d96-8864-c92a415a8c41",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Leon",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762405625477096,
+          52.310169706075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "572a7695-fd83-428b-b2a1-779b65444113",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Planes@Plaza",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7632114444068625,
+          52.31000621159963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "7ffe4c61-ebb6-4ce3-af88-c8dfc05faf46",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Albert Heijn",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7629297849663725,
+          52.31018363397451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a340d440-3f0a-45be-9e61-441bc9e175ec",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Gall & Gall",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762740163968172,
+          52.31018630271762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f16f4ddd-6418-4c57-93d9-5d7fd3daea6d",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Promo Shop",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761932136733708,
+          52.309973470070766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "ede17087-f4ee-4fcc-9ed4-187313abcf3f",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "The Body Shop",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761944312177371,
+          52.30989030617103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "36dea1d5-3f7a-4c64-b2e6-06dfbabd77a0",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Burger King",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76235553573686,
+          52.3099556490333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "51ae02c2-ebca-4280-8782-75a456720a1f",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Leonias",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763415461050781,
+          52.30932478542408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f7b14fe3-e9be-409d-9a87-bba2f70e026b",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "La Place Express",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76379551132101,
+          52.309005740058524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "314f96e6-8580-4e07-914e-03c62c475910",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Victoria's Secret",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761751628309651,
+          52.31014910319995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "3a070463-d969-46ee-bf78-48930265ce0a",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Banks & Credit Unions",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "GWK-Travelex",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760859724114322,
+          52.310122084500854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "552729fb-f2be-4413-95ef-92a55d8712e5",
+        "LEVEL_ID": "L001",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Starbucks",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7595659640702825,
+          52.310067779598675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "28913d67-ba69-40c9-b7d0-cfaa5db18e7f",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Drugstore",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764676569205377,
+          52.307392811330715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "25962f40-7b15-4e48-91cb-228b9b019bfd",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Urban Beans",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7596864433565305,
+          52.310330088758526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "26fad191-46cc-4fcf-86c9-79fc1a080ea2",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Last minute shop V!ZZ!T",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "9d7af9d2-5060-41c0-9fb2-3cf0283e0942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762142260585974,
+          52.31270451202526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "8eea3753-690a-4b67-a835-75f14f0dc1b7",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Espresso Bar",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "9d7af9d2-5060-41c0-9fb2-3cf0283e0942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761850763332277,
+          52.31264823458238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "bc97fb1c-9be5-4792-a23d-bb586d37f0c0",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Say Cheese",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760947084351998,
+          52.31119840667822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "8c1b6340-7da4-4c7b-8ebc-dc36da2c36c7",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Gassan Watches & Jewelry",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761143683303055,
+          52.31120645132209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "937045b6-2ed8-448e-a06c-9ba1a005f955",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Perfumes & Cosmetics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7613381009198426,
+          52.31121312793403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "bf29533b-3755-4f5b-bbbb-edd99eb7b4a1",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Sunglasses",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7615195112135,
+          52.311214189160715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f74d4c2c-847c-48b8-b04b-99707ae9c379",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fine Chocolates",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761605413815149,
+          52.311258558799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "fbe6e729-ba88-4c2f-87d0-0e51bbed8b4c",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "East Bar & Bites",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761544335051081,
+          52.31138963770684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f8eda993-f524-4def-b94c-0cf40eea726d",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Banks & Credit Unions",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "GWK-TravelexGWK-Travelex",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76175403145418,
+          52.311399439821514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "652090ef-5d11-4865-992f-7de8fb4a214b",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Bread!",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760745592142854,
+          52.31127538711277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "c7b9fc93-af90-44ba-aa73-e2f9146913ad",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Victoria's Secret",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760725089813851,
+          52.31120231772832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "494399c8-020d-40c1-b27e-12b5dfcace87",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "News & Books",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76051639522852,
+          52.311218064671856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "efab7afe-dc9d-4b95-8a04-57a2420a6632",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Light Lounge Café",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.759720927083903,
+          52.31133084255501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "1a5cee94-f72b-453e-8873-21d865bd6777",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Last Minute Shop",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.759927498447618,
+          52.31116908445551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "20f79a70-c3d7-435c-9da8-487540da19b2",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "NL+ Souvenirs & Gifts",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760096214450781,
+          52.311176039320834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "6d457f79-aea2-4185-ad90-f57378a043d9",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Multi Brand Shop",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.759676427603242,
+          52.31112165871335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f2c87339-9b63-4f65-a17a-d57d8c13e22b",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Fashion",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Burberry",
+        "WEBSITE": "https://nl.burberry.com",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761992798563935,
+          52.31112530253523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "97f52e3f-4e24-4a4d-91b9-94116e9cd928",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fashion & Travel",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762114617167712,
+          52.311129550087536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "8e9e4dbe-cf23-45f3-8a7a-7dbbc1e98cd8",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Electronics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762226005518292,
+          52.3111083082559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "4ec830ad-b20c-4090-9f1a-1d433f926b49",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "News & Books",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762366428077286,
+          52.31105233521982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "0172e46a-4f0b-416c-ac79-e3a021b94f66",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Drugstore",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762492032591308,
+          52.31100226866018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "046aafe6-aa59-4408-bfce-3f08ec25610c",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Toys - Let’s Play",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7625883911158375,
+          52.31096385965337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "cecb5c21-f29f-4c82-8e62-8b865af1ebbc",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Exquisite Luxury Liquors & Tobacco",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7627552976004885,
+          52.31089732978552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "6f3561eb-87d6-40e7-a435-50d786a2de35",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fune Food",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764732343969552,
+          52.30803014745871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "94d3da81-c9d6-4d00-b32c-8fb523b35fc9",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Hugo Boss",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764718855629999,
+          52.30785899855342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "35d8064b-5355-4577-b8e3-b67e7b046a2f",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Swatch",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764699152864193,
+          52.30760899573983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "95a0726e-ad2c-4316-8e6c-8317bb70436b",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Café Chocolat",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764829262638615,
+          52.307005120694285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "1c2bfb0f-9d60-44f8-857c-0bed4dc884c1",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Perfumes & Cosmetics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765017942024424,
+          52.30855348827377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "15b780e7-8a73-4b12-b8a6-f9e87acb23f4",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Liquor & Tobacco",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764993672080008,
+          52.308296169753355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f080d615-28de-461f-8247-687d15981a92",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "News & Books",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765019359011733,
+          52.308123802470014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "61233332-1cd2-4ed6-8c2f-cecda89e7280",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Grand Café Het Paleis",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765344866929736,
+          52.308214886084386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "85d0e60c-15ca-4fe5-89c6-d4d445c24d72",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Mediterranean Sandwich Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765274919388496,
+          52.30799669581816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "bf436eb8-f5df-4bdb-9021-622e6125413d",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fashion & Travel",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7651015264136305,
+          52.307444737189265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "5af5cf9e-a21d-4301-87bb-05311ef6ebe7",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Electronics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765143072801064,
+          52.30757637233477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "5f66d34c-6313-4e0c-9373-f03a2d9740e6",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Starbucks",
+        "WEBSITE": "starbucks.nl",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765185444302745,
+          52.307685592138455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "5b2cc039-a3bc-44cc-84e0-a650040d3636",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Sunglasses",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764889759767824,
+          52.30737424023493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "97810393-d4e6-4d66-941d-e9182d15f535",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Flowers & Bulbs",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764922783822833,
+          52.30727235328727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "e146427c-b62c-4e08-bf30-68bc49d062f1",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Harvest Market",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b73dee6f-eed5-4755-ae47-a05bedd8491a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7688748789940085,
+          52.308462906404756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "e07c019f-2038-4e9a-8da2-65a6e2a97286",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Last minute shop V!ZZ!T",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b73dee6f-eed5-4755-ae47-a05bedd8491a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.769096097637009,
+          52.30841164795645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "66aef88a-d9d7-488f-bb3d-69b720f3ca05",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Murphy's Bar",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b73dee6f-eed5-4755-ae47-a05bedd8491a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.769382689217594,
+          52.30823832205157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "3a6460a2-0b8e-4fdf-b116-fdaf8b96e72a",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Beauty & Spas",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Massage Services",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b73dee6f-eed5-4755-ae47-a05bedd8491a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768826046018028,
+          52.30868946519295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a37c3ac3-b029-40bd-a30e-305fb31b7de7",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Banks & Credit Unions",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "ABN AMRO",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b73dee6f-eed5-4755-ae47-a05bedd8491a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768704088457811,
+          52.308686611042155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "d9fc6281-28bf-4f97-863a-54f69a3519ee",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Last minute shop V!ZZ!T",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.767291819027043,
+          52.312466315177815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "3aecf9f4-332d-4e98-92e5-9a9e446789ba",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Coffee & Tea",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Segafedo Espresso Bar",
+        "WEBSITE": "http://www.segafredocafe.com",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768515716722118,
+          52.313585596561815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "e9fb47c2-a576-4972-a72d-eb313787f903",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Beer, Wine & Spirits",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Silverscreen Bar",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766940943186841,
+          52.31229409139223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "65ba7edf-6fc8-428d-996e-28f8f96bb73d",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Gassan Watches & Jewelry",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765229398532471,
+          52.309312091647634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "c68334f4-a72c-4cd4-ab1f-0bac21cc8a4e",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Tastes from the Lowlands",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762789435978149,
+          52.31108429250034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f157dfac-676f-4ad0-8ae7-7d5478b953aa",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Gassan Watches & Jewelry",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762175780704575,
+          52.31126934752362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a67a3c35-7265-4587-87f1-79ff2bb4d3f9",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Svarovski",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762304563809309,
+          52.311219909034655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "0eb12305-d4da-4d43-beca-c57778c27a4d",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Gassan Diamonds",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762369208321071,
+          52.311196140859366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "95d33976-24b4-48eb-a290-a681a77ef504",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Grabandfly",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "9d7af9d2-5060-41c0-9fb2-3cf0283e0942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762058335807216,
+          52.311479878129724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "ba1abf85-122c-4fe7-9f55-57ed76b897c9",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Douwe Egberts Coffee Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762272766239926,
+          52.31045121440705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "4d63355c-d1b0-4d8d-a531-4c920f0e7519",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Bubbles Seafood & Wine Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764962536267401,
+          52.307037461240704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "7311b046-ade1-4525-a18f-0d3a429aab68",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "GWX-Travelex",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764649344684305,
+          52.3070750290382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "cfede2c0-fdd9-462e-abd9-37aba28765f6",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Toys Let's Play",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7646539824114065,
+          52.30712264190919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "b453ff69-e32f-418a-b5d4-69fc3fe8adf4",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fine Chocolates",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764670918752069,
+          52.307284071802115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "1a4bb769-113d-49f0-9137-5626d39c546a",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Jewelry",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Swarovski",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764622078605207,
+          52.306897338363534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "c44176ea-99c2-4c7e-9f81-49a5b9a4cab4",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Grabandfly",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b0e52e7f-4a0f-4711-ab88-e23688f51469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76477418224181,
+          52.30682313526545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "50a0b2b3-3514-4bf0-8b6a-214df0216dd9",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cosmetics & Beauty Supply",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Rituals",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764466186064859,
+          52.306835996432824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "b857674b-d5b1-403c-83c4-eb0a101f6d8b",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Coffee & Tea",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Juicy Details",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7644814935728155,
+          52.3069640724547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "dd0282fa-c760-4298-903d-16e0b0f35aef",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Starbucks Reserve",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764368730703297,
+          52.30692061452534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "d2571acc-1762-4120-97b4-7eb86a48c1a4",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Beer, Wine & Spirits",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Cafe Comunal",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b0e52e7f-4a0f-4711-ab88-e23688f51469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766408574874214,
+          52.30533814009315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f9560287-abc5-4a63-8129-b36a4c2738e4",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Beer, Wine & Spirits",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Kiosko Comunal",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b0e52e7f-4a0f-4711-ab88-e23688f51469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766275393361584,
+          52.30520704611642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "5ca59fad-f783-486c-a262-f929efa89e81",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Grabandfly",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b73dee6f-eed5-4755-ae47-a05bedd8491a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76585644398462,
+          52.30858691649231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "56d22e0b-4b5d-4b6a-b2e3-acc25d591caf",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Heineken Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7654412646057995,
+          52.30897721980356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "2994bf8c-abe7-49ce-a30a-268b97905aab",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fine Food",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765469053963111,
+          52.30920365225043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "6c1833f6-7edc-4175-a29b-92b13389786e",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Burberry",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765298601365264,
+          52.31005116406378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "c9d2326a-8fa6-41cd-9875-650c8467fa14",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Omega Cartier",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765335639949036,
+          52.30985683556046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "8d605eca-5649-439e-87a5-3921a7396a6b",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Sunglasses",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765222370509937,
+          52.30917290814895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "ab363365-ab1a-4fb4-9998-39a1e8fcf169",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Johnnie Walker House",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765205344952915,
+          52.30941790583654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "0547cae4-e028-4e2a-bdc8-c9895d2fc4d8",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Bottega Veneta",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765211429426347,
+          52.310087054865804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "8bf0fb16-de3e-4493-b53f-7477af474558",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Hermès",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765113228456066,
+          52.31012727072555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "fc74db0c-0182-4110-a3e6-fba11707023b",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Amsterdam Bread Company",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765522725960357,
+          52.30948846735619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "3decae02-7a9f-4b11-a69e-f369abc68bc7",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "NL+ Souvenirs & Gifts",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76545727610776,
+          52.30908542074329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "65d90f59-d07f-4bff-993a-9465eb4a7f96",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "House of Tulips",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765457350089545,
+          52.30929915546743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "ece12fe4-a819-4db6-9db6-0760691e2c03",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Electronics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76481607619473,
+          52.30928778912189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "2e5b5ad7-0f78-464a-a289-c3fba69f5fcc",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "News & Books",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764827210353851,
+          52.30941299801266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "6e962fa4-2aaf-4294-b066-b9e51945b4fa",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Liquor & Tobacco",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7648460411432065,
+          52.30962560638468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "78fd4377-4348-46df-9fa2-7724cf89e36f",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Perfumes & Cosmetics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76486314676743,
+          52.30981908149158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "8320832f-d23e-4c29-bcbc-9f9dc8cf7e69",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Grabandfly",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7651022870818345,
+          52.31026879771957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "930a28df-0cc6-4535-98b1-b92a79cf0a43",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Gucci",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76534761880028,
+          52.309991225110565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "7fe34caf-689d-462c-93e7-b9195b8b4f51",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Montblanc",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764825914973598,
+          52.31031120433586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "cd268ce3-10ef-4f39-89b4-bd340e7816ef",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Kebaya",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "56c2a553-9dfb-4dc9-977f-ee456e38ed79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7645898379777805,
+          52.31036103593638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "64029c84-add6-4ab0-9a3a-9d9af0bd360f",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fashion & Travel",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761080030269961,
+          52.311025483678286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a67552de-e837-4311-b24f-553241a1d19f",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Liquor & Tobacco",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760635653369363,
+          52.311065478910585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "dcd81033-79bd-4cb5-b1e3-3b35e4d8763f",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Banks & Credit Unions",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "ABN Amro",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760445510896002,
+          52.31105834617335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "2574634d-72e3-47da-b005-c5cbcb26a889",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Aviflora",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76340496424195,
+          52.31059056606125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "6d6aa117-607e-47b1-b64e-7d2f13631cfa",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Swatch",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763027057880807,
+          52.31078091882236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a08828fa-4bbe-4291-a012-db628a335da8",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Segafedo Espresso Bar",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "be633318-14ba-448b-8608-0bffe07c2b40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.757056651673076,
+          52.313224421435535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "3d199789-a24c-43b9-ab67-fed8eed6e70e",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Grabandfly",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "be633318-14ba-448b-8608-0bffe07c2b40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.757264068375956,
+          52.311482126692646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "d251759e-44ff-4ce5-a3fb-3c1873564ab5",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Beer, Wine & Spirits",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Galaxy Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.756941509143122,
+          52.31136879102109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "b3aeae95-a91e-4b7b-ad34-1bfe8dd7648d",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Last minute shop V!ZZ!T",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.756952786133712,
+          52.311278239125116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a59f12ce-a2d4-44d8-a72c-ba534264aec8",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Segafredo Espresso Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.757159579508509,
+          52.310844618587794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "af622fa3-7387-46d5-b68a-e76669bc4d98",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Arts & Entertainment",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Holland Casino",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76375840692777,
+          52.31031425396526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "dcaa2ddb-be54-4b07-ae69-5689038aeb72",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Last minute shop V!ZZ!T",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760932795285341,
+          52.30552729645373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "74ad8bf2-55ec-4335-b1ec-af7dc9f15a3c",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Grabandfly",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7610220511807615,
+          52.30543403252005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "1edb7b9c-c4ba-45ac-9db8-f60668df2193",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Kiosk 29",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "f17f3235-f121-4178-95b6-7d7019951ac4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763282531706553,
+          52.303408911854305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "95ce9a24-003a-4c20-a7ff-b17b5ede8310",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Beer, Wine & Spirits",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Tribune Bar",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "f17f3235-f121-4178-95b6-7d7019951ac4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761763285483216,
+          52.30475471477335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "1804e8e5-9166-4b2f-8836-2643a4ba3882",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Last minute shop V!ZZ!T",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b0e52e7f-4a0f-4711-ab88-e23688f51469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766442934993566,
+          52.30549049230297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "44bc9854-6500-4e6c-815a-f3bcbf2e6799",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": " NL+ Souvenirs & Sports",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764666556572485,
+          52.307195387529426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "39fa999b-aa1a-4301-bbcf-5d0731db8a76",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Perfumes & Cosmetics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764692829578247,
+          52.30752876105684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "dbad68ac-3c11-44a5-aec8-1dd9e712e00b",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fashion & Travel",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764724402027662,
+          52.307929374967586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "587e1bd8-7bd3-4281-b19b-c66689655cce",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Gassan Watches & Jewelry",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764713656142346,
+          52.307793023864676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "5460f8cb-6bbf-48e7-86ee-c93fde6a2b60",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fashion & Travel",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764707852522519,
+          52.307719383413726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "ba5ad866-e4ad-4f13-94c4-21994e99f300",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "The Fashion Gallery",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765210664551311,
+          52.308957072082336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "34d8ea87-4bc8-4003-9144-73abb39f2bf6",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Toys - Let’s Play",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765228769647216,
+          52.309221898222106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "77a179ef-38e8-44a5-84f1-3eb91fe35232",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Coffee Break",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b73dee6f-eed5-4755-ae47-a05bedd8491a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7697943018762645,
+          52.30925271885965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "733ed8a1-bb0e-4c10-9e4c-bb59e49210d0",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Swarowski",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7651360760710455,
+          52.30987426475229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "b338a783-7726-4e57-a782-f4d977e320ee",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Café Coco",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76540406033962,
+          52.309714374521654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "7f38c7af-c598-439a-960e-bfb78a44b845",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Museum Shop",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763204246987355,
+          52.31093473511762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f7d8a2d8-849c-4cfd-8b65-c14154d1036c",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Rituals",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763803863054571,
+          52.31068665953673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "07456a5a-c99e-4e12-89e5-997f3fc9e98c",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Fine Foods",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761884991715331,
+          52.311114364723295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "5f01a53d-3c23-4054-b216-37ea42818a7e",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Shopping",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "House of Tulips",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761018665693333,
+          52.31120379661743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "60287afe-62e1-404c-84dc-a863a5f561fd",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Juicy Details",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76011491259346,
+          52.31132875658891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "fc508fb8-4175-4286-8908-1bf9c0c33ac8",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Urban Food Market",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.759450560209684,
+          52.31110653089503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "39fee3f5-37f8-42dc-8c7f-6e440ac54913",
+        "LEVEL_ID": "L002",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Segafredo Espresso Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763657793678058,
+          52.308185596269276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "7599605e-ae5b-4dfc-a1ef-81923fa7f129",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Hotels",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Mercure Hotels",
+        "PHONE": "+310207219177",
+        "WEBSITE": "http://www.mercure.com/",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762119225097742,
+          52.31093873192934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "e082ee93-9c88-4c21-949a-c5b9e2742c79",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "McDonald's",
+        "PHONE": "+31204058632",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760629310225107,
+          52.310979012949495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "7b3b266a-58ad-4ffc-915f-91d82185e673",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "McDonald's",
+        "WEBSITE": "http://www.mcdonalds.nl/",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764646882610144,
+          52.309103192538814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "087ef645-1f18-4859-b2af-58b44fed5d03",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Specialty Food",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "M&M Store",
+        "WEBSITE": "http://www.m-ms.com/",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765165514273011,
+          52.30936125123415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "ea4d6991-a23a-4ad7-a97e-e113ad6cc382",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Balcony Bar",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763928659035914,
+          52.30907604366083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "f3b8ddf6-59b6-43f4-8e71-3124e68ace66",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Park Café",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765433724360801,
+          52.30854785075261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a7318328-796e-47db-8fcc-9658ef5b649c",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "The Grill/The Oven",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76483654282798,
+          52.309108515374575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "07b00298-0f2d-43fb-8171-41648a36913a",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Pharmacy",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Drugstore",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76471178794345,
+          52.309789474068424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "dae24baf-b870-4918-b625-fc23784e78e9",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Hotels",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Hotel Yotel",
+        "PHONE": "+31202065782",
+        "WEBSITE": "www.yotel.com",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76498964593091,
+          52.30897604014807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "9781f369-bbda-44e6-be2a-ca7a0439ae32",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Cafes",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Grabandfly",
+        "ADDRESS_ID": "A00001",
+        "TERMINAL_ID": "b73dee6f-eed5-4755-ae47-a05bedd8491a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768886525755855,
+          52.308576986066704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "691b1acd-bf22-4bb7-b65c-20761bc68a9f",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Color Café",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7614798967141985,
+          52.31040387072607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "aad04ba0-d550-4e3e-bec9-6c17a66122b5",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Restaurants",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Pizza Pasta Panini",
+        "PHONE": "+31204058263",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7612969867888015,
+          52.31121700084181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "a1964e1a-25c2-46c1-97dc-ae87d4226578",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Accessories",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Electronics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764982946129638,
+          52.31004269614044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "954383da-4534-4f2c-8109-66e83e0b623b",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Fashion",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Hugo Boss",
+        "WEBSITE": "http://www.hugoboss.com/",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765198724893935,
+          52.309897963644026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "bc32a840-bcfd-479c-9d32-8be5f3a4ab01",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Cosmetics & Beauty Supply",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "MAC Cosmetics",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764856914562405,
+          52.31012211046077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OCCU_ID": "43b07ddd-1395-47ce-8791-4e1418dfa1d1",
+        "LEVEL_ID": "L003",
+        "CATEGORY": "Beauty & Spas",
+        "TAXONOMY": "avf:1.3.1",
+        "NAME": "Massage Services",
+        "ADDRESS_ID": "A00001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.764787801964539,
+          52.31005527420197
+        ]
+      }
+    }
+  ]
+}

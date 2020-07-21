@@ -1,0 +1,19 @@
+[
+	{
+		"airportName": "Schiphol Airport",
+		"airportCode": "AMS",
+		"airportCity": "Amsterdam",
+		"airportCountry": "The Netherlands",
+		"airportLatitude": "52.309101",
+		"airportLongitude": "4.76357",
+		"airportRadius": "800",
+		"airportOrdinal": "0",
+        "airportMaximumOrdinal": "3",
+        "airportOrdinalNames": [
+            "Plaza & Arrivals - Ground Floor",
+            "Departure & Gates - First Floor",
+            "Bars & Restaurants - Second Floor",
+            "Panorama Terrace - Third Floor"
+        ]
+    }
+]

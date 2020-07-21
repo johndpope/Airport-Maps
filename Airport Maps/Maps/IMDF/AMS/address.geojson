@@ -1,0 +1,22 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "address",
+	"features" : [
+		{
+			"type" : "Feature",
+			"id" : "85670000-7d6c-4a02-a02b-e6f4640eace3",
+			"feature_type" : "address",
+			"geometry" : null,
+			"properties" : {
+				"address" : "Evert van de Beekstraat 202",
+				"unit" : null,
+				"locality" : "Amsterdam",
+				"province" : "NL-NH",
+				"country" : "NL",
+				"postal_code" : "1118 CP",
+				"postal_code_ext" : null,
+				"postal_code_vanity" : null
+			}
+		}
+	]
+}

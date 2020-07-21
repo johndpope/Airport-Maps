@@ -1,0 +1,266 @@
+  [
+{
+  "cat": "Accessories",
+  "keywords": ["Accessories"]
+},
+{
+"cat": "Wheelchair Assist",
+"keywords": ["Wheelchair", "Chair"]
+},
+{
+"cat": "Restroom",
+"keywords": ["Toilet", "Bathroom", "Ladies", "Baby", "WC", "Restrooms", "Toilets"]
+},
+{
+"cat": "Restroom (Male)",
+"keywords": ["Toilet", "Bathroom", "Ladies", "Baby", "WC", "Restrooms", "Restroom Male", "Restrooms Male", "Male", "Toilets"]
+},
+{
+"cat": "Restroom (Female)",
+"keywords": ["Toilet", "Bathroom", "Ladies", "Baby", "WC", "Restrooms", "Restroom Female", "Restrooms Female", "Female", "Toilets"]
+},
+{
+  "cat": "Appliances",
+  "keywords": ["Appliances","Appliance","Home","Electronic","Electric","Utility","DIY","Television","TV","Radio","Air Conditioner"," AirCo","Kettle","Blender","Microwave","DVD","CD","Camera","Video","Clock","Game","Cinema","Juicer","Mixer","Vacuum","Cleaning","Refrigerator","Freezer"," Fridge","Washing Machine","Water Heater","Oven","Dryer","Telephone","Phone","Mobile","Battery","Batteries","Cable"]
+},
+{
+  "cat": "Art Galleries",
+  "keywords": ["Art Galleries","Art","Gallery","Painting","Photo","Photography","Exhibition","Sculpture"]
+},
+{
+  "cat": "Arts & Entertainment",
+  "keywords": ["Arts & Entertainment","Art","Entertainment","Music","Painting","Poster","Photo"," Photography","Film","Movie","Cinema"]
+},
+{
+  "cat": "Auto Parts & Supplies",
+  "keywords": ["Auto Parts & Supplies","Auto","Parts","Automotive","Car","Motor","Spare"]
+},
+{
+  "cat": "Automotive",
+  "keywords": ["Auto Parts & Supplies","Auto","Parts","Automotive","Car","Motor","Spare"]
+},
+{
+  "cat": "Banks & Credit Unions",
+  "keywords": ["Banks & Credit Unions","Finance","Bank","Money","Credit","Card","Loan","Deposite","Exchange","ATM","Cash"]
+},
+{
+  "cat": "Beauty & Spas",
+  "keywords": ["Beauty & Spas","Beauty"," Spa","Health","Massage"," Wellness","Meditation"]
+},
+{
+  "cat": "Beer",
+  "keywords": ["Beer"," Wine & Spirits","Beer","Wine","Spirits","Alcohol","Liquor"]
+},
+{
+  "cat": "Books, Mags, Music & Video",
+  "keywords": ["Book","Mags","Music","Video","Magazine","Music","Video","DVD","Newspaper","Glossy","DVD","CD","Paperback","Comics"]
+},
+{
+  "cat": "Cafes",
+  "keywords": ["Cafe","Coffee","Tea","Cafe","Cake","Muffin","Sandwich","Breakfast","Lunch","Beverage","Food","Latte","Machiato","Espresso"]
+},
+{
+  "cat": "Car Rental",
+  "keywords": ["Car Rental","Car","Rental","AVIS","HERTZ","BUDGET","ALAMO","EUROPCAR"]
+},
+{
+  "cat": "Cards & Stationery",
+  "keywords": ["Cards & Stationery","Birthday Card","Stationery","Greeting","Greeting Card"," Card","Stamp"]
+},
+{
+  "cat": "Children's Clothing",
+  "keywords": ["Children's Clothes","Clothing","Children’s Clothes"," Clothing","Pant","Shirt","Blouse","Skirt","Dress","Underwear","Socks","Sweater","Hoodie","Fleece"]
+},
+{
+  "cat": "Cinema",
+  "keywords": ["Cinema","Movie","Film", "Animation"]
+},
+{
+  "cat": "Coffee & Tea",
+  "keywords": ["Coffee","Tea","Cafe","Cake","Muffin","Sandwich","Breakfast","Lunch","Beverage","Food","Latte","Machiato","Espresso"]
+},
+{
+  "cat": "Cosmetics & Beauty Supply",
+  "keywords": ["Cosmetics & Beauty Supply","Beauty","Cosmetic","Cream","Lotion","Makeup","Lipstick","Mascara","Brush","Parfum","Eau","Eau de Toiet","Razor","Blades","Shaving cream"]
+},
+{
+  "cat": "Department Stores",
+  "keywords": ["Department Store","Clothing","Household","Homeware","DIY","Clothes", "Clothing"]
+},
+{
+  "cat": "DryCleaning & Laundry",
+  "keywords": ["Dry Cleaning","Cleaning","Laundry","Wash","Ironing"]
+},
+{
+  "cat": "Education",
+  "keywords": ["Education","Learning","Book", "Course", "Training"]
+},
+{
+  "cat": "Eyewear & Opticians",
+  "keywords": ["Eyewear & Opticians","Glasses","Contact lens","Contacts","Lens","Eyewear"," Optician"]
+},
+{
+  "cat": "Fashion",
+  "keywords": ["Clothes","Clothing","Dress","Skirt","Jeans","Shirt","Socks","Underwear","Lingerie","Coat","Blouse","Panty"," Panties","Pants"]
+},
+{
+  "cat": "Financial Services",
+  "keywords": ["Financial Services","Finance","Investment"," Loans","Bank","ATM","Cash","Credit","Money"]
+},
+{
+  "cat": "Florists",
+  "keywords": ["Florist","Flower","Bulb","Plant","Cactus"]
+},
+{
+  "cat": "Furniture Stores",
+  "keywords": ["Furniture Stores","Furniture","Sofa","Desk","Chair","Table","Bed","Couch"]
+},
+{
+  "cat": "Grocery",
+  "keywords": ["Fruit","Vegetable","Vegetables","Food","Apple","Orange","Banana","Grapes","Lemon","Milk","Water","Juice","Desert"]
+},
+{
+  "cat": "Health & Medical",
+  "keywords": ["Health","Medical","Drugs","Doctor","Nurse","First Aid","Aid","Defibrilator"]
+},
+{
+  "cat": "Hobby Shops",
+  "keywords": ["Hobby"," Painting","Games","DIY","Puzzle","Glue","Scissor"]
+},
+{
+  "cat": "Home & Garden",
+  "keywords": ["Home & Garden","Home","Garden","Tools","Lawnmower","Outdoor"]
+},
+{
+  "cat": "Hotels",
+  "keywords": ["Hotel","Motel","Stay","Overnight","Sleep"]
+},
+{
+  "cat": "Jewelry",
+  "keywords": ["Jewellery","Ring","Necklace","Bracelet","Diamond","Gold","Silver"]
+},
+{
+  "cat": "Landmarks & Historical",
+  "keywords": ["Landmarks & Historical","Landmark","Monument"]
+},
+{
+  "cat": "Buildings",
+  "keywords": ["Building"]
+},
+{
+  "cat": "Libraries",
+  "keywords": ["Library","Book"]
+},
+{
+  "cat": "Lingerie",
+  "keywords": ["Lingerie","Underwear","Bra","Panty","Panties"]
+},
+{
+  "cat": "Local Services",
+  "keywords": ["Service","Post", "Mail","Phone","Stamps","Information"]
+},
+{
+  "cat": "Luggage",
+  "keywords": ["Luggage","Baggage","Suitcase","Trolley","Backpack", "Seal", "Claim"]
+},
+{
+  "cat": "Men's Clothing",
+  "keywords": ["Men's Clothing","Clothing","Shirt","Jumper","Sweater","Shorts"," Pants","Trousers","Socks","Underwear","Jeans","Fleece"]
+},
+{
+  "cat": "Nurseries & Gardening",
+  "keywords": ["Nurseries & Gardening", "Nurseries & Gardening","Nursery","Garden","Plant","Flower","Bulb"]
+},
+{
+  "cat": "Opera & Ballet",
+  "keywords": ["Opera & Ballet","Opera","Ballet","Concert"]
+},
+{
+  "cat": "Performing Arts",
+  "keywords": ["Performing Arts","Art","Film","Music","Movie","Opera","Ballet"]
+},
+{
+  "cat": "Pet Stores",
+  "keywords": ["Pet Stores","Pet","Dog","Cat","Bird","Animal"]
+},
+{
+  "cat": "Pharmacy",
+"keywords": ["Pharmacy","Health","Healthcare","Drugs","Medicin","Paracetamol","Pain","Medicine","First Aid"]
+},
+{
+  "cat": "Photography Stores & Services",
+  "keywords": ["Photography Stores & Services","Photo","Film","Battery","Print"]
+},
+{
+  "cat": "Post Offices",
+  "keywords": ["Post","Letter","Mail","Mailbox","Stamp"]
+},
+{
+  "cat": "Professional Services",
+  "keywords": ["Services"]
+},
+{
+  "cat": "Property Management",
+  "keywords": ["Property Management","Real estate","Estate","House","Houses","Housing","Property","Realty","Rental"]
+},
+{
+  "cat": "Public Services & Government",
+  "keywords": ["Government"]
+},
+{
+  "cat": "Real Estate Agents",
+  "keywords": ["Real Estate Agent","Real estate","Estate","House","Houses","Housing","Property","Realty","Rental"]
+},
+{
+  "cat": "Real Estate Services",
+  "keywords": ["Real Estate Services","Real Estate Agent","Real estate","Estate","House","Houses","Housing","Property","Realty","Rental"]
+},
+{
+  "cat": "Restaurants",
+  "keywords": ["Restaurants","Restaurant","Food","Dinner","Lunch","Breakfast","Meal","Drink"]
+},
+{
+  "cat": "Sewing & Alterations",
+  "keywords": ["Sewing","Alteration","Tailor","Clothes","Clothing"]
+},
+{
+  "cat": "Shoe Stores",
+  "keywords": ["Shoe Stores","Shoes","Boots","Slippers"]
+},
+{
+  "cat": "Shopping",
+  "keywords": ["Shopping","Shop","Shops","Mall","Department","Department Store"]
+},
+{
+  "cat": "Specialty Food",
+  "keywords": ["Specialty Food","Food"]
+},
+{
+  "cat": "Sporting Goods",
+  "keywords": ["Sporting Goods","Football","Soccer","Tennis","Hockey","Baseball","Softball","Shoes","Sweater","Fitness","Ball","Racket","Cap"]
+},
+{
+  "cat": "Toy Stores",
+  "keywords": ["Toy Stores","Toy","Toys","Puzzle","Games"]
+},
+{
+  "cat": "Travel Services",
+  "keywords": ["Travel Services","Travel","Holiday"]
+},
+{
+  "cat": "Veterinarians",
+  "keywords": ["Veterinarians","Animals","Dogs","Cats","Doctor","Nurse","Medicine"]
+},
+{
+  "cat": "Watches",
+  "keywords": ["Watches","Clock","Battery"]
+},
+{
+  "cat": "Women's Clothing",
+  "keywords": ["Women's Clothing","Clothes","Clothing","Dress","Lingerie","Skirt","Dress","Stockings","Socks","Underwear","Jeans","Pants","Sweater","Blouse","Shirt","Trousers","Fleece"]
+},
+{
+  "cat": "Gate Area",
+  "keywords": ["Gates", "Gate", "Boarding Gates",]
+}
+]

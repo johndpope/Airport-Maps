@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  AirportMaps
+
+  Created by Bart Bruijnesteijn on 15/01/2020.
+  Copyright © 2020 Bart Bruijnesteijn. All rights reserved.
+*/
+
+"ListOfAirportsViewTitle" = "Aeropuertos";

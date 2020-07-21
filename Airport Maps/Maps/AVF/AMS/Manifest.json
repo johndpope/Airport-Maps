@@ -1,0 +1,45 @@
+{
+  "mapmaking": {
+    "mapmaker": "Apple",
+    "mapmaking_tool": {
+      "name": "Maraca",
+      "server": "maraca.geo.apple.com",
+      "url": "https://maraca.geo.apple.com/mapmaking/venues/94180501805514961606#",
+      "version": {
+        "sha": "2532844",
+        "release": "2017.25.01",
+        "build": "",
+        "deployDate": "2017-06-20 4:00 AM PDT"
+      }
+    },
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+    "contact": {
+      "firstName": "Beomgeun",
+      "lastName": "Kim",
+      "employeeId": "3004360",
+      "prsTypeCode": "2",
+      "maracaDsGroups": [
+        "maps-rio-maraca"
+      ]
+    }
+  },
+  "venue": {
+    "location": {
+      "city": "Amsterdam",
+      "vendor_id": "A00001",
+      "country": "NLD",
+      "address2": "Evert van de Beekstraat",
+      "address1": "202",
+      "province": "North Holland",
+      "postal_code": "1118 CP",
+      "address4": "Haarlemmermeer",
+      "id": "A00001"
+    },
+    "default_lang": {
+      "code": "en",
+      "script": "",
+      "locale": "en-us"
+    }
+  },
+  "version": "undefined"
+}
